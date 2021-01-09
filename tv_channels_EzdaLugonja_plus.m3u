@@ -1,0 +1,1596 @@
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Nova BiH" tvg-logo="[" group-title="Live: BOSNA",N0VA BiH
+http://livego.club:8080/EzdaLugonja/Expert46/26828
+#EXTINF:-1 tvg-ID="BHTV1.rs" tvg-name="BH: BHT HD" tvg-logo="" group-title="Live: BOSNA",BHT HD
+http://livego.club:8080/EzdaLugonja/Expert46/1029
+#EXTINF:-1 tvg-ID="OBN.hr" tvg-name="BH: OBN" tvg-logo="" group-title="Live: BOSNA", OBN
+http://livego.club:8080/EzdaLugonja/Expert46/7732
+#EXTINF:-1 tvg-ID="FaceTV.hr" tvg-name="BH: FACE TV" tvg-logo="" group-title="Live: BOSNA",FACE TV
+http://livego.club:8080//EzdaLugonja/Expert46/1031
+#EXTINF:-1 tvg-ID="FTV.hr" tvg-name="BH: FTV" tvg-logo="" group-title="Live: BOSNA",FTV
+http://livego.club:8080/EzdaLugonja/Expert46/7891
+#EXTINF:0 type="stream" channelId="4249" name="BH: N1" group="BOSNA" tvg-country="bh",  N1 BIH
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/26657
+#EXTINF:-1 tvg-ID="AlJazeeraBalkans.hr" tvg-name="BH: Aljazeera Balkan HD" tvg-logo="[" group-title="Live: BOSNA",ALJAZEERA BALKAN HD
+http://livego.club:8080/EzdaLugonja/Expert46/10064
+#EXTINF:0 type="stream" channelId="3900" name="BH: TV 1" group="BOSNA" logo="[" tvg-country="bh", TV 1
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/13582
+#EXTINF:-1 tvg-ID="PINKBH.hr" tvg-name="BH: Pink BH" tvg-logo="[" group-title="Live: BOSNA",PINK BH
+http://livego.club:8080/EzdaLugonja/Expert46/465
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: HAYAT HD" group="BOSNA" tvg-country="BH", HAYAT  HD
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/1030
+#EXTINF:-1 tvg-ID="hayat-plus.ba" tvg-name="BH: HAYAT Plus" tvg-logo="[""]" group-title="Live: BOSNA",HAYAT Plus
+http://livego.club:8080/EzdaLugonja/Expert46/31313
+#EXTINF:-1 tvg-ID="BNsat.ba" tvg-name="BH: BN BIH" tvg-logo="" group-title="Live: BOSNA",BN BIH
+http://livego.club:8080/EzdaLugonja/Expert46/1032
+#EXTINF:-1 tvg-ID="tvkiss.ba" tvg-name="BH: TK" tvg-logo="" group-title="Live: BOSNA",TK
+http://livego.club:8080/EzdaLugonja/Expert46/13559
+#EXTINF:-1 tvg-ID="ATV.hr" tvg-name="BH: ATV Banja Luka" tvg-logo="" group-title="Live: BOSNA",ATV ALTERNATIVNA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23682
+#EXTINF:-1 tvg-ID="TVSarajevo.svn" tvg-name="BH: TV Sarajevo" tvg-logo="" group-title="Live: BOSNA",TV SARAJEVO
+http://livego.club:8080/EzdaLugonja/Expert46/7892
+#EXTINF:-1 tvg-ID="K3.ba" tvg-name="BH: K3" tvg-logo="[" group-title="Live: BOSNA",K3
+http://livego.club:8080/EzdaLugonja/Expert46/13578
+#EXTINF:-1 tvg-ID="Kanal5.hr" tvg-name="BH: Kanal 5HD" tvg-logo="[" group-title="Live: BOSNA",KANAL 5HD
+http://livego.club:8080/EzdaLugonja/Expert46/13561
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: MTV Igman" tvg-logo="" group-title="Live: BOSNA",MTV IGMAN
+http://livego.club:8080/EzdaLugonja/Expert46/10062
+#EXTINF:-1 tvg-ID="" tvg-name="BH: Islam Channel" tvg-logo="" group-title="Live: BOSNA",ISLAM CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/46335
+#EXTINF:-1 tvg-ID="" tvg-name="BH: Mekka" tvg-logo="" group-title="Live: BOSNA",MEKKA
+http://livego.club:8080/EzdaLugonja/Expert46/46336
+#EXTINF:-1 tvg-ID="" tvg-name="BH: RTV VISOKO HD" tvg-logo="" group-title="Live: BOSNA",RTV VISOKO HD
+http://livego.club:8080/EzdaLugonja/Expert46/13560
+#EXTINF:-1 tvg-ID="Alfa.ba" tvg-name="BH: Alfa Tv Sarajevo" tvg-logo="[" group-title="Live: BOSNA",ALFA TV SARAJEVO
+http://livego.club:8080/EzdaLugonja/Expert46/13579
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Mreza+ BDC" tvg-logo="[" group-title="Live: BOSNA",MREŽA+ BDC
+http://livego.club:8080/EzdaLugonja/Expert46/13566
+#EXTINF:-1 tvg-ID="RTRSPlus.ba" tvg-name="BH: RTRS Plus" tvg-logo="[" group-title="Live: BOSNA",RTRS PLUS
+http://livego.club:8080/EzdaLugonja/Expert46/13575
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Slon Extra HD" tvg-logo="" group-title="Live: BOSNA",SLON EXTRA HD
+http://livego.club:8080/EzdaLugonja/Expert46/31290
+#EXTINF:-1 tvg-ID="htvoscar.ba" tvg-name="BH: HIT TV" tvg-logo="" group-title="Live: BOSNA",HIT TV
+http://livego.club:8080/EzdaLugonja/Expert46/13563
+#EXTINF:-1 tvg-ID="citytv.ba" tvg-name="BH: City TV" tvg-logo="" group-title="Live: BOSNA",CITY TV
+http://livego.club:8080/EzdaLugonja/Expert46/13567
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: HB TV" tvg-logo="" group-title="Live: BOSNA",HB TV
+http://livego.club:8080/EzdaLugonja/Expert46/13572
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: OSM TV" tvg-logo="" group-title="Live: BOSNA",OSM TV
+http://livego.club:8080/EzdaLugonja/Expert46/13576
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Mir TV" tvg-logo="" group-title="Live: BOSNA",MIR TV
+http://livego.club:8080/EzdaLugonja/Expert46/13568
+#EXTINF:-1 tvg-ID="HNTV.hr" tvg-name="BH: NTV 101 HD" tvg-logo="" group-title="Live: BOSNA",NTV 101 HD
+http://livego.club:8080/EzdaLugonja/Expert46/13570
+#EXTINF:-1 tvg-ID="rtvzenica.ba" tvg-name="BH: RTV Zenica" tvg-logo="[" group-title="Live: BOSNA",RTV ZENICA
+http://livego.club:8080/EzdaLugonja/Expert46/13585
+#EXTINF:-1 tvg-ID="" tvg-name="BH: Tv Kakanj" tvg-logo="[""]" group-title="Live: BOSNA",TV KAKANJ
+http://livego.club:8080/EzdaLugonja/Expert46/13583
+#EXTINF:-1 tvg-ID="" tvg-name="BH: TV USK" tvg-logo="[""]" group-title="Live: BOSNA",TV USK
+http://livego.club:8080/EzdaLugonja/Expert46/13584
+#EXTINF:-1 tvg-ID="posavinatv.ba" tvg-name="BH: Posavina TV" tvg-logo="[" group-title="Live: BOSNA",POSAVINA TV
+http://livego.club:8080/EzdaLugonja/Expert46/31289
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Glas Drine" tvg-logo="" group-title="Live: BOSNA",GLAS DRINE
+http://livego.club:8080/EzdaLugonja/Expert46/35325
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Televizija 5HD" tvg-logo="" group-title="Live: BOSNA",TELEVIZIJA 5HD
+http://livego.club:8080/EzdaLugonja/Expert46/38234
+#EXTINF:-1 tvg-ID="NovaTV.hr" tvg-name="CRO: NOVA HD" tvg-logo="" group-title="Live: CROATIA",NOVA HD
+http://livego.club:8080/EzdaLugonja/Expert46/2482
+#EXTINF:-1 tvg-ID="N1Croatia.hr" tvg-name="CRO: N1 Hrvatska" tvg-logo="[" group-title="Live: CROATIA",N1 HRVATSKA
+http://livego.club:8080/EzdaLugonja/Expert46/23711
+#EXTINF:-1 tvg-ID="RTL.hr" tvg-name="CRO: RTL" tvg-logo="[" group-title="Live: CROATIA",RTL HD
+http://livego.club:8080/EzdaLugonja/Expert46/2480
+#EXTINF:-1 tvg-ID="rtl2.hr" tvg-name="CRO: RTL 2" tvg-logo="" group-title="Live: CROATIA",RTL 2
+http://livego.club:8080/EzdaLugonja/Expert46/2479
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: RTL ADRIA" tvg-logo="" group-title="Live: CROATIA",RTL ADRIA
+http://livego.club:8080/EzdaLugonja/Expert46/42965
+#EXTINF:-1 tvg-ID="RTLCrime.hr" tvg-name="CRO: RTL CRIME" group="EX-Yu" logo="[", RTL CRIME
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/2478
+#EXTINF:-1 tvg-ID="RTLLiving.hr" tvg-name="CRO: RTL LIVING" tvg-logo="[" group-title="Live: CROATIA", RTL LIVING
+http://livego.club:8080/EzdaLugonja/Expert46/2477
+#EXTINF:-1 tvg-ID="RTLPassion.hr" tvg-name="CRO: RTL PASSION" tvg-logo="[" group-title="Live: CROATIA",RTL PASSION
+http://livego.club:8080/EzdaLugonja/Expert46/13596
+#EXTINF:-1 tvg-ID="HRTTV1.hr" tvg-name="CRO: HRT 1 FHD" tvg-logo="[" group-title="Live: CROATIA",HRT 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/23715
+#EXTINF:-1 tvg-ID="HRTTV1.hr" tvg-name="CRO: HRT 1" tvg-logo="[" group-title="Live: CROATIA", HRT 1
+http://livego.club:8080/EzdaLugonja/Expert46/1033
+#EXTINF:-1 tvg-ID="HRTTV2.hr" tvg-name="CRO: HRT 2 FHD" tvg-logo="[" group-title="Live: CROATIA",HRT 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/23714
+#EXTINF:-1 tvg-ID="HRTTV2.hr" tvg-name="CRO: HRT 2" tvg-logo="[" group-title="Live: CROATIA",HRT 2
+http://livego.club:8080/EzdaLugonja/Expert46/1034
+#EXTINF:-1 tvg-ID="HRT3.hr" tvg-name="CRO: HRT 3 FHD" tvg-logo="[" group-title="Live: CROATIA",HRT 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/23713
+#EXTINF:-1 tvg-ID="HRT3.hr" tvg-name="CRO: HRT 3" tvg-logo="" group-title="Live: CROATIA", HRT 3
+http://livego.club:8080/EzdaLugonja/Expert46/1035
+#EXTINF:-1 tvg-ID="HRT4.hr" tvg-name="CRO: HRT 4 FHD" tvg-logo="[" group-title="Live: CROATIA", HRT 4 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/23712
+#EXTINF:-1 tvg-ID="HRT4.hr" tvg-name="CRO: HRT 4" tvg-logo="" group-title="Live: CROATIA",HRT 4
+http://livego.club:8080/EzdaLugonja/Expert46/1036
+#EXTINF:-1 tvg-ID="HRTInt.hr" tvg-name="CRO: HRT Int" tvg-logo="[" group-title="Live: CROATIA",HRT INT
+http://livego.club:8080/EzdaLugonja/Expert46/20422
+#EXTINF:-1 tvg-ID="Prva.hr" tvg-name="CRO: PRVA PLUS" tvg-logo="" group-title="Live: CROATIA",PRVA PLUS
+http://livego.club:8080/EzdaLugonja/Expert46/2495
+#EXTINF:-1 tvg-ID="Prva.hr" tvg-name="CRO: PRVA TV" tvg-logo="" group-title="Live: CROATIA",PRVA TV
+http://livego.club:8080/EzdaLugonja/Expert46/2481
+#EXTINF:-1 tvg-ID="Z1.hr" tvg-name="CRO: Z1 HD" tvg-logo="" group-title="Live: CROATIA", Z1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/20607
+#EXTINF:-1 tvg-ID="DomaTV.hr" tvg-name="CRO: Doma TV" tvg-logo="" group-title="Live: CROATIA", DOMA TV
+http://livego.club:8080/EzdaLugonja/Expert46/13595
+#EXTINF:-1 tvg-ID="24Kitchen.hr" tvg-name="CRO: 24 Kitchen" tvg-logo="[" group-title="Live: CROATIA", 24 KITCHEN
+http://livego.club:8080/EzdaLugonja/Expert46/23669
+#EXTINF:-1 tvg-ID="MrezaZG.hr" tvg-name="CRO: Mreza Zagreb" tvg-logo="" group-title="Live: CROATIA", MREŽA ZAGREB
+http://livego.club:8080/EzdaLugonja/Expert46/43570
+#EXTINF:-1 tvg-ID="ZdravaTV.hr" tvg-name="CRO: Zdrava TV" tvg-logo="[" group-title="Live: CROATIA", ZDRAVA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23700
+#EXTINF:-1 tvg-ID="Diva.hr" tvg-name="CRO: Diva" tvg-logo="[" group-title="Live: CROATIA", DIVA
+http://livego.club:8080/EzdaLugonja/Expert46/13594
+#EXTINF:-1 tvg-ID="DocuBox.svn" tvg-name="CRO: DocuBox" tvg-logo="" group-title="Live: CROATIA", DOCUBOX
+http://livego.club:8080/EzdaLugonja/Expert46/23690
+#EXTINF:-1 tvg-ID="KinoTV.hr" tvg-name="CRO: KINO HD" tvg-logo="" group-title="Live: CROATIA", KINO HD
+http://livego.club:8080/EzdaLugonja/Expert46/23683
+#EXTINF:-1 tvg-ID="HNTV.hr" tvg-name="CRO: HNTV" tvg-logo="[" group-title="Live: CROATIA", HNTV
+http://livego.club:8080/EzdaLugonja/Expert46/23651
+#EXTINF:-1 tvg-ID="JabukaTV.hr" tvg-name="CRO: Jabuka TV" tvg-logo="" group-title="Live: CROATIA", JABUKA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23697
+#EXTINF:-1 tvg-ID="Kanal-Ri.hr" tvg-name="CRO: Kanal Ri" tvg-logo="" group-title="Live: CROATIA",KANAL RI
+http://livego.club:8080/EzdaLugonja/Expert46/23702
+#EXTINF:-1 tvg-ID="KlasikTV.hr" tvg-name="CRO: Klasik TV" tvg-logo="" group-title="Live: CROATIA",KLASIK TV
+http://livego.club:8080/EzdaLugonja/Expert46/13600
+#EXTINF:-1 tvg-ID="kreatortv.hr" tvg-name="CRO: Kreator TV" tvg-logo="[" group-title="Live: CROATIA",KREATOR TV
+http://livego.club:8080/EzdaLugonja/Expert46/23652
+#EXTINF:-1 tvg-ID="LaudatoTV.hr" tvg-name="CRO: Laudato TV" tvg-logo="" group-title="Live: CROATIA", LAUDATO TV
+http://livego.club:8080/EzdaLugonja/Expert46/23704
+#EXTINF:-1 tvg-ID="LoviRibolov.rs" tvg-name="CRO: Lov I Ribolov" tvg-logo="[" group-title="Live: CROATIA",LOV I RIBOLOV
+http://livego.club:8080/EzdaLugonja/Expert46/23661
+#EXTINF:-1 tvg-ID="MrezaST.hr" tvg-name="CRO: Mreza Split" tvg-logo="" group-title="Live: CROATIA",MREŽA SPLIT
+http://livego.club:8080/EzdaLugonja/Expert46/23638
+#EXTINF:-1 tvg-ID="MTVAdria.rs" tvg-name="CRO: MTV Adria" tvg-logo="" group-title="Live: CROATIA", MTV ADRIA
+http://livego.club:8080/EzdaLugonja/Expert46/23703
+#EXTINF:-1 tvg-ID="OsječkaTV.hr" tvg-name="CRO: Osjecka" tvg-logo="[" group-title="Live: CROATIA", OSJEČKA
+http://livego.club:8080/EzdaLugonja/Expert46/23707
+#EXTINF:-1 tvg-ID="sbtv.hr" tvg-name="CRO: SB TV" tvg-logo="" group-title="Live: CROATIA",SB TV
+http://livego.club:8080/EzdaLugonja/Expert46/23696
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Trend TV Karlovac" tvg-logo="" group-title="Live: CROATIA",TREND TV KARLOVAC
+http://livego.club:8080/EzdaLugonja/Expert46/23706
+#EXTINF:-1 tvg-ID="VinkovačkaTV.hr" tvg-name="CRO: Vinkovacka TV" tvg-logo="[" group-title="Live: CROATIA",VINKOVAČKA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23701
+#EXTINF:-1 tvg-ID="AMC.hr" tvg-name="CRO: AMC" tvg-logo="[" group-title="Live: CROATIA", AMC
+http://livego.club:8080/EzdaLugonja/Expert46/23684
+#EXTINF:-1 tvg-ID="TVJadran.hr" tvg-name="CRO: Jadran TV" tvg-logo="" group-title="Live: CROATIA", JADRAN TV
+http://livego.club:8080/EzdaLugonja/Expert46/23698
+#EXTINF:-1 tvg-ID="SlavonskaTV.hr" tvg-name="CRO: Slavonska TV" tvg-logo="[" group-title="Live: CROATIA", SLAVONSKA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23708
+#EXTINF:-1 tvg-ID="TVIstra.hr" tvg-name="CRO: TV Istra" tvg-logo="" group-title="Live: CROATIA", TV ISTRA
+http://livego.club:8080/EzdaLugonja/Expert46/23709
+#EXTINF:-1 tvg-ID="VarazdinskaTV.hr" tvg-name="CRO: VTV Varazdin" tvg-logo="" group-title="Live: CROATIA", VTV VARAŽDIN
+http://livego.club:8080/EzdaLugonja/Expert46/23705
+#EXTINF:-1 tvg-ID="Nova.rs" tvg-name="RS: Nova HD" tvg-logo="[" group-title="Live: SRBIJA", NOVA HD
+http://livego.club:8080/EzdaLugonja/Expert46/7034
+#EXTINF:-1 tvg-ID="N1.rs" tvg-name="RS: N1 SRBIJA" tvg-logo="[" group-title="Live: SRBIJA", N1 SRBIJA
+http://livego.club:8080/EzdaLugonja/Expert46/7893
+#EXTINF:-1 tvg-ID="happytv.sr" tvg-name="RS: Happy TV" tvg-logo="[" group-title="Live: SRBIJA", HAPPY TV
+http://livego.club:8080/EzdaLugonja/Expert46/7036
+#EXTINF:-1 tvg-ID="RTRS.rs" tvg-name="RS: RTRS" tvg-logo="" group-title="Live: SRBIJA",RTRS
+http://livego.club:8080/EzdaLugonja/Expert46/7030
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva TV" group="BOSNA" tvg-country="rs", PRVA TV
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/7032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: PRVA KICK" tvg-logo="[" group-title="Live: SRBIJA", PRVA KICK
+http://livego.club:8080/EzdaLugonja/Expert46/23599
+#EXTINF:-1 tvg-ID="PrvaMAX.rs" tvg-name="RS: Prva MAX" tvg-logo="[""]" group-title="Live: SRBIJA", PRVA MAX
+http://livego.club:8080/EzdaLugonja/Expert46/13557
+#EXTINF:-1 tvg-ID="PrvaPlus.rs" tvg-name="RS: Prva Plus" tvg-logo="" group-title="Live: SRBIJA", PRVA PLUS
+http://livego.club:8080/EzdaLugonja/Expert46/7031
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Prva World" tvg-logo="[" group-title="Live: SRBIJA", PRVA WORLD
+http://livego.club:8080/EzdaLugonja/Expert46/13558
+#EXTINF:-1 tvg-ID="RTSHD.rs" tvg-name="RS: RTS HD" tvg-logo="" group-title="Live: SRBIJA", RTS HD
+http://livego.club:8080/EzdaLugonja/Expert46/9119
+#EXTINF:-1 tvg-ID="RTS1.rs" tvg-name="RS: RTS 1" tvg-logo="" group-title="Live: SRBIJA",RTS 1
+http://livego.club:8080/EzdaLugonja/Expert46/1037
+#EXTINF:-1 tvg-ID="RTS2.rs" tvg-name="RS: RTS 2" tvg-logo="" group-title="Live: SRBIJA", RTS 2
+http://livego.club:8080/EzdaLugonja/Expert46/1038
+#EXTINF:-1 tvg-ID="RTS3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: SRBIJA", RTS 3
+http://livego.club:8080/EzdaLugonja/Expert46/7025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: B92" tvg-logo="" group-title="Live: SRBIJA", B92
+http://livego.club:8080/EzdaLugonja/Expert46/7043
+#EXTINF:-1 tvg-ID="studio-b-yu.sr" tvg-name="RS: STUDIO B" tvg-logo="[" group-title="Live: SRBIJA",STUDIO B
+http://livego.club:8080/EzdaLugonja/Expert46/23595
+#EXTINF:-1 tvg-ID="RTSDrama.rs" tvg-name="RS: RTS Drama" tvg-logo="[""]" group-title="Live: SRBIJA", RTS DRAMA
+http://livego.club:8080/EzdaLugonja/Expert46/23627
+#EXTINF:-1 tvg-ID="RTSMuzika.rs" tvg-name="RS: RTS Muzika" tvg-logo="[""]" group-title="Live: SRBIJA",RTS MUZIKA
+http://livego.club:8080/EzdaLugonja/Expert46/23626
+#EXTINF:-1 tvg-ID="RTSSvet.rs" tvg-name="RS: RTS Svet" tvg-logo="" group-title="Live: SRBIJA", RTS SVET
+http://livego.club:8080/EzdaLugonja/Expert46/23636
+#EXTINF:-1 tvg-ID="RTSTrezor.rs" tvg-name="RS: RTS Trezor" tvg-logo="[""]" group-title="Live: SRBIJA", RTS TREZOR
+http://livego.club:8080/EzdaLugonja/Expert46/23625
+#EXTINF:-1 tvg-ID="RTSZivot.rs" tvg-name="RS: RTS Zivot" tvg-logo="" group-title="Live: SRBIJA",RTS ZIVOT
+http://livego.club:8080/EzdaLugonja/Expert46/23624
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: HAPPY PAROVI" tvg-logo="[" group-title="Live: SRBIJA", HAPPY PAROVI
+http://livego.club:8080/EzdaLugonja/Expert46/23596
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP RS: Zadruga Uživo 1" tvg-logo="" group-title="Live: SRBIJA", ZADRUGA UŽIVO 1
+http://livego.club:8080/EzdaLugonja/Expert46/33669
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 2" tvg-logo="" group-title="Live: SRBIJA", ZADRUGA UŽIVO 2
+http://livego.club:8080/EzdaLugonja/Expert46/33670
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 3" tvg-logo="" group-title="Live: SRBIJA", ZADRUGA UŽIVO 3
+http://livego.club:8080/EzdaLugonja/Expert46/33671
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: Zadruga Uživo 4" tvg-logo="" group-title="Live: SRBIJA",ZADRUGA UŽIVO 4
+http://livego.club:8080/EzdaLugonja/Expert46/33672
+#EXTINF:-1 tvg-ID="LoviRibolov.rs" tvg-name="RS: Lov and Ribolov" tvg-logo="" group-title="Live: SRBIJA", LOV I RIBOLOV
+http://livego.club:8080/EzdaLugonja/Expert46/7035
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Belle Amie" tvg-logo="[""]" group-title="Live: SRBIJA", BELLE AMIE
+http://livego.club:8080/EzdaLugonja/Expert46/23623
+#EXTINF:-1 tvg-ID="Duga.ba" tvg-name="RS: Duga TV" tvg-logo="" group-title="Live: SRBIJA", DUGA TV
+http://livego.club:8080/EzdaLugonja/Expert46/7039
+#EXTINF:-1 tvg-ID="E.rs" tvg-name="RS: E!" tvg-logo="[" group-title="Live: SRBIJA", E!
+http://livego.club:8080/EzdaLugonja/Expert46/13531
+#EXTINF:-1 tvg-ID="" tvg-name="RS: HNTV" tvg-logo="[" group-title="Live: SRBIJA", HNTV
+http://livego.club:8080/EzdaLugonja/Expert46/13589
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Jefimija TV" tvg-logo="" group-title="Live: SRBIJA",JEFEMIJA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23605
+#EXTINF:-1 tvg-ID="kanal6.ba" tvg-name="RS: Kanal 6 HD" tvg-logo="[" group-title="Live: SRBIJA", KANALA 6 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7038
+#EXTINF:-1 tvg-ID="KCN1.rs" tvg-name="RS: KCN 1" tvg-logo="" group-title="Live: SRBIJA", KCN 1
+http://livego.club:8080/EzdaLugonja/Expert46/21285
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Leskovac TV" tvg-logo="" group-title="Live: SRBIJA", LESKOVAC TV
+http://livego.club:8080/EzdaLugonja/Expert46/23630
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nasha TV" tvg-logo="[" group-title="Live: SRBIJA", NASHA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23634
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SuperStar HD" tvg-logo="[" group-title="Live: SRBIJA", SUPERSTAR HD
+http://livego.club:8080/EzdaLugonja/Expert46/13556
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Partizan TV" tvg-logo="[" group-title="Live: SRBIJA", PARTIZAN TV
+http://livego.club:8080/EzdaLugonja/Expert46/13587
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Roma TV" tvg-logo="[""]" group-title="Live: SRBIJA", ROMA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23619
+#EXTINF:-1 tvg-ID="sos.rs" tvg-name="RS: SOS Kanal" tvg-logo="" group-title="Live: SRBIJA", SOS KANAL
+http://livego.club:8080/EzdaLugonja/Expert46/7028
+#EXTINF:-1 tvg-ID="Nautical.svn" tvg-name="RS: Nautical TV" tvg-logo="" group-title="Live: SRBIJA", NAUTICAL TV
+http://livego.club:8080/EzdaLugonja/Expert46/23622
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: TV Hram" tvg-logo="[" group-title="Live: SRBIJA", TV HRAM
+http://livego.club:8080/EzdaLugonja/Expert46/23615
+#EXTINF:-1 tvg-ID="UltraTV.rs" tvg-name="RS: Ultra" tvg-logo="[" group-title="Live: SRBIJA",ULTRA
+http://livego.club:8080/EzdaLugonja/Expert46/13550
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Vavoom" tvg-logo="[""]" group-title="Live: SRBIJA", VAVOOM
+http://livego.club:8080/EzdaLugonja/Expert46/23600
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Yu ECO TV" tvg-logo="" group-title="Live: SRBIJA", Yu ECO TV
+http://livego.club:8080/EzdaLugonja/Expert46/23617
+#EXTINF:-1 tvg-ID="24Kitchen.rs" tvg-name="RS: 24 Kitchen" tvg-logo="" group-title="Live: SRBIJA",24 KITCHEN
+http://livego.club:8080/EzdaLugonja/Expert46/7904
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: A TV" tvg-logo="[" group-title="Live: SRBIJA", A TV
+http://livego.club:8080/EzdaLugonja/Expert46/7044
+#EXTINF:-1 tvg-ID="" tvg-name="RS: TV Pirot" tvg-logo="" group-title="Live: SRBIJA", TV PIROT
+http://livego.club:8080/EzdaLugonja/Expert46/23616
+#EXTINF:-1 tvg-ID="rtvnovipazar.rs" tvg-name="RS: RTV Novi Pazar" tvg-logo="" group-title="Live: SRBIJA", RTV NOVI PAZAR
+http://livego.club:8080/EzdaLugonja/Expert46/7029
+#EXTINF:-1 tvg-ID="" tvg-name="RS: RTV Vojvodina 1" tvg-logo="[""]" group-title="Live: SRBIJA", RTV VOJVODINA 1
+http://livego.club:8080/EzdaLugonja/Expert46/23632
+#EXTINF:-1 tvg-ID="" tvg-name="RS: RTV Vojvodina 2" tvg-logo="[""]" group-title="Live: SRBIJA", RTV VOJVODINA 2
+http://livego.club:8080/EzdaLugonja/Expert46/23631
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Zvezda" tvg-logo="" group-title="Live: SRBIJA", ZVEZDA
+http://livego.club:8080/EzdaLugonja/Expert46/41488
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Nova Sport FHD" tvg-logo="" group-title="Live: SPORT",BH: NOVA SPORT FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34653
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BH: Nova Sport HD" tvg-logo="" group-title="Live: SPORT",BH: NOVA SPORT HD
+http://livego.club:8080/EzdaLugonja/Expert46/34562
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BH: Moja Sport HD" tvg-logo="[" group-title="Live: SPORT",BH: MOJA SPORT HD
+http://livego.club:8080/EzdaLugonja/Expert46/13581
+#EXTINF:-1 tvg-ID="ArenaSport1.hr" tvg-name="VIP CRO: ARENA SPORT FHD 1" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20644
+#EXTINF:-1 tvg-ID="ArenaSport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 1   HD
+http://livego.club:8080/EzdaLugonja/Expert46/2505
+#EXTINF:-1 tvg-ID="ArenaSport2.hr" tvg-name="VIP CRO: ARENA SPORT FHD 2" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20643
+#EXTINF:-1 tvg-ID="ArenaSport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 2   HD
+http://livego.club:8080/EzdaLugonja/Expert46/2503
+#EXTINF:-1 tvg-ID="ArenaSport3.hr" tvg-name="VIP CRO: ARENA SPORT FHD 3" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20642
+#EXTINF:-1 tvg-ID="ArenaSport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 3   HD
+http://livego.club:8080/EzdaLugonja/Expert46/2501
+#EXTINF:-1 tvg-ID="ArenaSport4.hr" tvg-name="VIP CRO: ARENA SPORT FHD 4" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 4 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20641
+#EXTINF:-1 tvg-ID="ArenaSport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="[" group-title="Live: SPORT",CRO: ARENA SPORT 4   HD
+http://livego.club:8080/EzdaLugonja/Expert46/2499
+#EXTINF:-1 tvg-ID="ArenaSport5.hr" tvg-name="VIP CRO: ARENA SPORT FHD 5" tvg-logo="" group-title="Live: SPORT",CRO: ARENA SPORT 5 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20640
+#EXTINF:-1 tvg-ID="ArenaSport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="Live: SPORT",CRO: ARENA SPORT 5   HD
+http://livego.club:8080/EzdaLugonja/Expert46/2497
+#EXTINF:-1 tvg-ID="ArenaSport6.hr" tvg-name="VIP CRO: ARENA SPORT FHD 6" tvg-logo="[" group-title="Live: SPORT",CRO: ARENA SPORT  6 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20639
+#EXTINF:-1 tvg-ID="ArenaSport6.hr" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="[" group-title="Live: SPORT",CRO: ARENA SPORT 6   HD
+http://livego.club:8080/EzdaLugonja/Expert46/13586
+#EXTINF:-1 tvg-ID="SportKlub1.hr" tvg-name="CRO: SPORT KLUB 1 HD" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2494
+#EXTINF:-1 tvg-ID="SportKlub2.hr" tvg-name="CRO: SPORT KLUB 2 HD" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2493
+#EXTINF:-1 tvg-ID="SportKlub3.hr" tvg-name="CRO: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2492
+#EXTINF:-1 tvg-ID="SportKlub4.rs" tvg-name="CRO: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/5345
+#EXTINF:-1 tvg-ID="SportKlub5.rs" tvg-name="CRO: SPORT KLUB 5 HD" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/5344
+#EXTINF:-1 tvg-ID="SportKlub6.rs" tvg-name="CRO: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 6 HD
+http://livego.club:8080/EzdaLugonja/Expert46/5343
+#EXTINF:-1 tvg-ID="planetsport1.ht" tvg-name="VIP CRO: PLANET SPORT 1 HD" tvg-logo="[" group-title="Live: SPORT",CRO: PLANET SPORT 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/19187
+#EXTINF:-1 tvg-ID="planetsport2.hr" tvg-name="VIP CRO: PLANET SPORT 2 HD" tvg-logo="[" group-title="Live: SPORT",CRO: PLANET SPORT 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/19188
+#EXTINF:-1 tvg-ID="planetsport3.hr" tvg-name="VIP CRO: PLANET SPORT 3 HD" tvg-logo="[" group-title="Live: SPORT",CRO: PLANET SPORT 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/19189
+#EXTINF:-1 tvg-ID="SportKlub1.hr" tvg-name="VIP CRO: SPORT KLUB 1 FHD" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20654
+#EXTINF:-1 tvg-ID="SportKlub2.hr" tvg-name="VIP CRO: SPORT KLUB 2 FHD" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20653
+#EXTINF:-1 tvg-ID="SportKlub3.hr" tvg-name="VIP CRO: SPORT KLUB 3 FHD" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/20652
+#EXTINF:-1 tvg-ID="SportKlub4.rs tvg-name="VIP CRO: SPORT KLUB 4" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 4
+http://livego.club:8080/EzdaLugonja/Expert46/20651
+#EXTINF:-1 tvg-ID="SportKlub5.rs" tvg-name="VIP CRO: SPORT KLUB 5" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 5
+http://livego.club:8080/EzdaLugonja/Expert46/20650
+#EXTINF:-1 tvg-ID="SportKlub6.rs" tvg-name="VIP CRO: SPORT KLUB 6" tvg-logo="" group-title="Live: SPORT",CRO: SPORT KLUB 6
+http://livego.club:8080/EzdaLugonja/Expert46/20649
+#EXTINF:-1 tvg-ID="SportKlub7.rs" tvg-name="VIP CRO: SPORT KLUB 7" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 7
+http://livego.club:8080/EzdaLugonja/Expert46/20648
+#EXTINF:-1 tvg-ID="SportKlub8.rs" tvg-name="VIP CRO: SPORT KLUB 8" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 8
+http://livego.club:8080/EzdaLugonja/Expert46/20647
+#EXTINF:-1 tvg-ID="SportKlub9.rs" tvg-name="VIP CRO: SPORT KLUB 9" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 9
+http://livego.club:8080/EzdaLugonja/Expert46/20646
+#EXTINF:-1 tvg-ID="SportKlub10.rs" tvg-name="VIP CRO: SPORT KLUB 10" tvg-logo="[" group-title="Live: SPORT",CRO: SPORT KLUB 10
+http://livego.club:8080/EzdaLugonja/Expert46/20645
+#EXTINF:-1 tvg-ID="ArenaSport1.ba" tvg-name="VIP RS: ARENA SPORT FHD 1" tvg-logo="[" group-title="Live: SPORT",RS: ARENA SPORT 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/31093
+#EXTINF:-1 tvg-ID="ArenaSport1.ba" tvg-name="RS: Arena Sport 1 HD" tvg-logo="" group-title="Live: SPORT",RS: ARENA SPORT 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2504
+#EXTINF:-1 tvg-ID="ArenaSport2.rs" tvg-name="VIP RS: ARENA SPORT FHD 2" tvg-logo="[" group-title="Live: SPORT",RS: ARENA SPORT 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/31094
+#EXTINF:-1 tvg-ID="ArenaSport2.rs" tvg-name="RS: Arena Sport 2 HD" tvg-logo="" group-title="Live: SPORT",RS: ARENA SPORT 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2502
+#EXTINF:-1 tvg-ID="ArenaSport3.rs" tvg-name="VIP RS: ARENA SPORT FHD 3" tvg-logo="[" group-title="Live: SPORT",RS: ARENA SPORT 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/31095
+#EXTINF:-1 tvg-ID="ArenaSport3.rs" tvg-name="RS: Arena Sport 3 HD" tvg-logo="" group-title="Live: SPORT",RS: ARENA SPORT 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2500
+#EXTINF:-1 tvg-ID="ArenaSport4.rs" tvg-name="VIP RS: ARENA SPORT FHD 4" tvg-logo="[" group-title="Live: SPORT",RS: ARENA SPORT 4 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/31096
+#EXTINF:-1 tvg-ID="ArenaSport4.rs" tvg-name="RS: Arena Sport 4 HD" tvg-logo="" group-title="Live: SPORT",RS: ARENA SPORT 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/2498
+#EXTINF:-1 tvg-ID="ArenaSport5.rs" tvg-name="VIP RS: ARENA SPORT FHD 5" tvg-logo="[" group-title="Live: SPORT",RS: ARENA SPORT 5 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/31097
+#EXTINF:-1 tvg-ID="ArenaSport5.rs" tvg-name="RS: Arena Sport 5 HD" tvg-logo="" group-title="Live: SPORT",RS: ARENA SPORT 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/13590
+#EXTINF:-1 tvg-ID="SportKlub1.rs" tvg-name="RS: SPORT KLUB 1 HD" tvg-logo="[]" group-title="Live: SPORT",RS: SPORT KLUB 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7735
+#EXTINF:-1 tvg-ID="SportKlub2.rs" tvg-name="RS: SPORT KLUB 2 HD" tvg-logo="[" group-title="Live: SPORT",RS: SPORT KLUB 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7734
+#EXTINF:-1 tvg-ID="SportKlub3.rs" tvg-name="RS: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: SPORT",RS: SPORT KLUB 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7733
+#EXTINF:-1 tvg-ID="SportKlub4.rs" tvg-name="RS: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: SPORT",RS: SPORT KLUB 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23610
+#EXTINF:-1 tvg-ID="SportKlub5.rs" tvg-name="RS: SPORT KLUB 5 HD" tvg-logo="" group-title="Live: SPORT",RS: SPORT KLUB 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23609
+#EXTINF:-1 tvg-ID="SportKlub6.rs" tvg-name="RS: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: SPORT",RS: SPORT KLUB 6 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23608
+#EXTINF:-1 tvg-ID="SportKlubGolf.rs" tvg-name="RS: SPORT KLUB Golf" tvg-logo="[" group-title="Live: SPORT",RS: SPORT KLUB Golf
+http://livego.club:8080/EzdaLugonja/Expert46/23607
+#EXTINF:-1 tvg-ID="" tvg-name="RS: SK HD" tvg-logo="[" group-title="Live: SPORT",RS: SK HD
+http://livego.club:8080/EzdaLugonja/Expert46/7033
+#EXTINF:-1 tvg-ID="Eurosport1.rs" tvg-name="RS: Eurosport 1" tvg-logo="" group-title="Live: SPORT",RS: EUROSPORT 1
+http://livego.club:8080/EzdaLugonja/Expert46/23612
+#EXTINF:-1 tvg-ID="Eurosport2.rs" tvg-name="RS: Eurosport 2" tvg-logo="" group-title="Live: SPORT",RS: EUROSPORT 2
+http://livego.club:8080/EzdaLugonja/Expert46/23611
+#EXTINF:-1 tvg-ID="SportskaTV.hr" tvg-name="RS: Sportska TV" tvg-logo="[""]" group-title="Live: SPORT",RS: SPORTSKA TV
+http://livego.club:8080/EzdaLugonja/Expert46/13588
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 1 HD" tvg-logo="[" group-title="Live: SPORT",SLO: SPORT TV 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/9298
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 2 HD" tvg-logo="[" group-title="Live: SPORT",SLO: SPORT TV 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/9297
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 3 HD" tvg-logo="[" group-title="Live: SPORT",SLO: SPORT TV 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/9296
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 1" tvg-logo="[" group-title="Live: SPORT",SLO: SPORTKLUB 1
+http://livego.club:8080/EzdaLugonja/Expert46/9295
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 2" tvg-logo="[" group-title="Live: SPORT",SLO: SPORTKLUB 2
+http://livego.club:8080/EzdaLugonja/Expert46/9294
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 3" tvg-logo="[" group-title="Live: SPORT",SLO: SPORTKLUB 3
+http://livego.club:8080/EzdaLugonja/Expert46/9293
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 4" tvg-logo="[" group-title="Live: SPORT",SLO: SPORTKLUB 4
+http://livego.club:8080/EzdaLugonja/Expert46/9299
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 5" tvg-logo="[" group-title="Live: SPORT",SLO: SPORTKLUB 5
+http://livego.club:8080/EzdaLugonja/Expert46/9290
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORTKLUB 6" tvg-logo="[" group-title="Live: SPORT",SLO: SPORTKLUB 6
+http://livego.club:8080/EzdaLugonja/Expert46/9289
+#EXTINF:-1 tvg-ID="NGC.hr" tvg-name="CRO: National Geographic" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: NATIONAL GEOGRAPHIC
+http://livego.club:8080/EzdaLugonja/Expert46/23658
+#EXTINF:-1 tvg-ID="CrimeInvestigations.hr" tvg-name="CRO: Crime & Investigation" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: CRIME & INVESTIGATION
+http://livego.club:8080/EzdaLugonja/Expert46/23663
+#EXTINF:-1 tvg-ID="Discovery.hr" tvg-name="CRO: Discovery Channel" tvg-logo="" group-title="Live: DOKUMENTARNI",CRO: DISCOVERY CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/23667
+#EXTINF:-1 tvg-ID="DiscoveryID.hr" tvg-name="CRO: Discovery ID" tvg-logo="[""]" group-title="Live: DOKUMENTARNI",CRO: DISCOVERY  ID
+http://livego.club:8080/EzdaLugonja/Expert46/23666
+#EXTINF:-1 tvg-ID="DiscoveryIDXtra.svn" tvg-name="CRO: Discovery ID Xtra HD" group="DOKUMENTARNI",CRO: DISCOVERY ID XTRA   HD
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/23664
+#EXTINF:-1 tvg-ID="DiscoveryScience.hr" tvg-name="CRO: Discovery Science HD" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: DISCOVRY SCIENCE HD
+http://livego.club:8080/EzdaLugonja/Expert46/23665
+#EXTINF:-1 tvg-ID="H2.rs" tvg-name="CRO: History 2" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: HISTORY 2
+http://livego.club:8080/EzdaLugonja/Expert46/23659
+#EXTINF:-1 tvg-ID="History.hr" tvg-name="CRO: History Channel" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: HISTORY CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/23660
+#EXTINF:-1 tvg-ID="NatGeoWild.hr" tvg-name="CRO: Nat Geo Wild" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: NAT GEO WILD
+http://livego.club:8080/EzdaLugonja/Expert46/23657
+#EXTINF:-1 tvg-ID="TLC.hr" tvg-name="CRO: TLC" tvg-logo="" group-title="Live: DOKUMENTARNI",CRO: TLC
+http://livego.club:8080/EzdaLugonja/Expert46/23694
+#EXTINF:-1 tvg-ID="CBSReality.rs" tvg-name="CRO: CBS Reality" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: CBS REALITY
+http://livego.club:8080/EzdaLugonja/Expert46/23662
+#EXTINF:-1 tvg-ID="E.hr" tvg-name="CRO: E!" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: E!
+http://livego.club:8080/EzdaLugonja/Expert46/23670
+#EXTINF:-1 tvg-ID="TravelChannel.hr" tvg-name="CRO: Travel Channel" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: TRAVEL CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/23656
+#EXTINF:-1 tvg-ID="TV1000.svn" tvg-name="CRO: TV 1000" tvg-logo="" group-title="Live: DOKUMENTARNI",CRO: TV 1000
+http://livego.club:8080/EzdaLugonja/Expert46/13597
+#EXTINF:-1 tvg-ID="ViasatExplorer.hr" tvg-name="CRO: Viasat Explorer" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: VIASAT EXPLORER
+http://livego.club:8080/EzdaLugonja/Expert46/23655
+#EXTINF:-1 tvg-ID="ViasatHistory.hr" tvg-name="CRO: Viasat History" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: VIASAT HISTORY
+http://livego.club:8080/EzdaLugonja/Expert46/23654
+#EXTINF:-1 tvg-ID="ViasatNature.hr" tvg-name="CRO: Viasat Nature" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: VIASAT NATURE
+http://livego.club:8080/EzdaLugonja/Expert46/23653
+#EXTINF:-1 tvg-ID="AnimalPlanet.hr" tvg-name="CRO: Animal Planet" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: ANIMAL PLANET
+http://livego.club:8080/EzdaLugonja/Expert46/23668
+#EXTINF:-1 tvg-ID="AXN.hr" tvg-name="CRO: AXN Adria" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: AXN ADRIA
+http://livego.club:8080/EzdaLugonja/Expert46/23692
+#EXTINF:-1 tvg-ID="AXNSpin.hr" tvg-name="CRO: AXN Spin" tvg-logo="[" group-title="Live: DOKUMENTARNI",CRO: AXN SPIN
+http://livego.club:8080/EzdaLugonja/Expert46/23691
+#EXTINF:-1 tvg-ID="AnimalPlanet.rs" tvg-name="RS: Animal Planet" tvg-logo="" group-title="Live: DOKUMENTARNI",RS: ANIMAL PLANET
+http://livego.club:8080/EzdaLugonja/Expert46/7899
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: ANP" tvg-logo="[" group-title="Live: DOKUMENTARNI",RS: ANP
+http://livego.club:8080/EzdaLugonja/Expert46/13534
+#EXTINF:-1 tvg-ID="DiscoveryChannel.rs" tvg-name="RS: Discovery Channel" tvg-logo="" group-title="Live: DOKUMENTARNI",RS: DISCOVERY CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/7900
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Discovery Xtra" tvg-logo="[" group-title="Live: DOKUMENTARNI",RS: DISCOVERY XTRA
+http://livego.club:8080/EzdaLugonja/Expert46/13543
+#EXTINF:-1 tvg-ID="CI.rs" tvg-name="RS: CRIME & INVESTIGATION" tvg-logo="[" group-title="Live: DOKUMENTARNI",RS: CRIME & INVESTIGATION
+http://livego.club:8080/EzdaLugonja/Expert46/13535
+#EXTINF:-1 tvg-ID="FoodNetwork.hr" tvg-name="RS: Food Network" tvg-logo="[""]" group-title="Live: DOKUMENTARNI",RS: FOOD NETWORK
+http://livego.club:8080/EzdaLugonja/Expert46/13542
+#EXTINF:-1 tvg-ID="H2.rs" tvg-name="RS: History 2" tvg-logo="[""]" group-title="Live: DOKUMENTARNI",RS: HISTORY 2
+http://livego.club:8080/EzdaLugonja/Expert46/13541
+#EXTINF:-1 tvg-ID="HistoryChannel.rs" tvg-name="RS: History Channel" tvg-logo="" group-title="Live: DOKUMENTARNI",RS: HISTORY CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/7901
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Nat Geo Wild HD" tvg-logo="" group-title="Live: DOKUMENTARNI",RS: NAT GEO WILD HD
+http://livego.club:8080/EzdaLugonja/Expert46/7902
+#EXTINF:-1 tvg-ID="NationalGeographic.rs" tvg-name="RS: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: DOKUMENTARNI",RS: NATIONAL GEOGRAPHIC
+http://livego.club:8080/EzdaLugonja/Expert46/7903
+#EXTINF:-1 tvg-ID="TLC.rs" tvg-name="RS: TLC  Discovery" tvg-logo="[" group-title="Live: DOKUMENTARNI",RS: TLC  DISCOVERY
+http://livego.club:8080/EzdaLugonja/Expert46/13533
+#EXTINF:-1 tvg-ID="TravelChannel.hr" tvg-name="RS: Travel Channel" tvg-logo="[" group-title="Live: DOKUMENTARNI",RS: TRAVEL CHANNEL
+http://livego.club:8080/EzdaLugonja/Expert46/13538
+#EXTINF:-1 tvg-ID="ViasatHistory.rs" tvg-name="RS: Viasat History" tvg-logo="[""]" group-title="Live: DOKUMENTARNI",RS: VIASAT HISTORY
+http://livego.club:8080/EzdaLugonja/Expert46/13539
+#EXTINF:-1 tvg-ID="ViasatNature.hr" tvg-name="RS: VIASAT Nature" tvg-logo="[""]" group-title="Live: DOKUMENTARNI",RS: VIASAT NATURE
+http://livego.club:8080/EzdaLugonja/Expert46/13540
+#EXTINF:-1 tvg-ID="ViasatExplorer.rs" tvg-name="RS: Viassat Explorer" tvg-logo="[""]" group-title="Live: DOKUMENTARNI",RS: VIASAT EXPLORER
+http://livego.club:8080/EzdaLugonja/Expert46/13536
+#EXTINF:-1 tvg-ID="Cinemax1.rs" tvg-name="CRO: CINEMAX" tvg-logo="[" group-title="Live: FILMSKI",CRO: CINEMAX
+http://livego.club:8080/EzdaLugonja/Expert46/2490
+#EXTINF:-1 tvg-ID="Cinemax2.hr" tvg-name="CRO: CINEMAX 2" tvg-logo="" group-title="Live: FILMSKI",CRO: CINEMAX 2
+http://livego.club:8080/EzdaLugonja/Expert46/2489
+#EXTINF:-1 tvg-ID="CinestarPremiere1.hr" tvg-name="CRO: CINESTAR PREMIERE 1" tvg-logo="[" group-title="Live: FILMSKI",CRO: CINESTAR PREMIERE 1
+http://livego.club:8080/EzdaLugonja/Expert46/2488
+#EXTINF:-1 tvg-ID="CinestarPremiere2.hr" tvg-name="CRO: CINESTAR PREMIERE 2" tvg-logo="[" group-title="Live: FILMSKI",CRO: CINESTAR PREMIERE 2
+http://livego.club:8080/EzdaLugonja/Expert46/2487
+#EXTINF:-1 tvg-ID="CinestarTV.hr" tvg-name="CRO: CINESTAR TV" tvg-logo="[" group-title="Live: FILMSKI",CRO: CINESTAR TV
+http://livego.club:8080/EzdaLugonja/Expert46/2486
+#EXTINF:-1 tvg-ID="CinestarAction.hr" tvg-name="CRO: CINESTAR TV ACTION" tvg-logo="[" group-title="Live: FILMSKI",CRO: CINESTAR TV ACTION
+http://livego.club:8080/EzdaLugonja/Expert46/2485
+#EXTINF:-1 tvg-ID="CinestarFantasy.hr" tvg-name="CRO: CINESTAR TV Fantasy HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: CINESTAR TV FANTASY HD
+http://livego.club:8080/EzdaLugonja/Expert46/23677
+#EXTINF:-1 tvg-ID="FilmBoxExtra.hr" tvg-name="CRO: FILMBOX EXTRA" tvg-logo="[" group-title="Live: FILMSKI",CRO: FILMBOX EXTRA
+http://livego.club:8080/EzdaLugonja/Expert46/13598
+#EXTINF:-1 tvg-ID="FilmBoxPlus.hr" tvg-name="CRO: FILMBOX PLUS" tvg-logo="" group-title="Live: FILMSKI",CRO: FILMBOX PLUS
+http://livego.club:8080/EzdaLugonja/Expert46/13599
+#EXTINF:-1 tvg-ID="M1Film.hr" tvg-name="CRO: M1 Film" tvg-logo="" group-title="Live: FILMSKI",CRO: M1 FILM
+http://livego.club:8080/EzdaLugonja/Expert46/23693
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 1" tvg-logo="" group-title="Live: FILMSKI",CRO: FILMOVI 1
+http://livego.club:8080/EzdaLugonja/Expert46/23689
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 2" tvg-logo="" group-title="Live: FILMSKI",CRO: FILMOVI 2
+http://livego.club:8080/EzdaLugonja/Expert46/23688
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 3" tvg-logo="" group-title="Live: FILMSKI",CRO: FILMOVI 3
+http://livego.club:8080/EzdaLugonja/Expert46/23687
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 4" tvg-logo="" group-title="Live: FILMSKI",CRO: FILMOVI 4
+http://livego.club:8080/EzdaLugonja/Expert46/23686
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Premium Film" tvg-logo="" group-title="Live: FILMSKI",CRO: PREMIUM FILM
+http://livego.club:8080/EzdaLugonja/Expert46/23676
+#EXTINF:-1 tvg-ID="Fox.hr" tvg-name="CRO: FOX" tvg-logo="[" group-title="Live: FILMSKI",CRO: FOX
+http://livego.club:8080/EzdaLugonja/Expert46/2496
+#EXTINF:-1 tvg-ID="FOXCrime.hr" tvg-name="CRO: Fox Crime" tvg-logo="[" group-title="Live: FILMSKI",CRO: FOX CRIME
+http://livego.club:8080/EzdaLugonja/Expert46/23681
+#EXTINF:-1 tvg-ID="FOXLife.hr" tvg-name="CRO: Fox Life" tvg-logo="[" group-title="Live: FILMSKI",CRO: FOX LIFE
+http://livego.club:8080/EzdaLugonja/Expert46/23680
+#EXTINF:-1 tvg-ID="FoxMovies.hr" tvg-name="CRO: FOX MOVIES" tvg-logo="[" group-title="Live: FILMSKI",CRO: FOX MOVIES
+http://livego.club:8080/EzdaLugonja/Expert46/2483
+#EXTINF:-1 tvg-ID="HBOAdria.rs" tvg-name="CRO: HBO ADRIA HD" tvg-logo="" group-title="Live: FILMSKI",CRO: HBO ADRIA HD
+http://livego.club:8080/EzdaLugonja/Expert46/2491
+#EXTINF:-1 tvg-ID="HBO2.svn" tvg-name="CRO: HBO 2 FHD" tvg-logo="" group-title="Live: FILMSKI",CRO: HBO 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/23679
+#EXTINF:-1 tvg-ID="HBO3hd.svn" tvg-name="CRO: HBO 3 FHD" tvg-logo="" group-title="Live: FILMSKI",CRO: HBO 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/23678
+#EXTINF:-1 tvg-ID="SciFi.svn" tvg-name="CRO: SciFi" tvg-logo="[" group-title="Live: FILMSKI",CRO: SCIFI
+http://livego.club:8080/EzdaLugonja/Expert46/23685
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 1 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23649
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 2 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23646
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 3 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23645
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 4 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23644
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 5 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23643
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 6 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 6 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23642
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 7 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 7 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23641
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 8 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 8 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23640
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 9 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 9 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23639
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 10 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 10 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23648
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 11 HD" tvg-logo="[" group-title="Live: FILMSKI",CRO: MAXCRO SELECT 11 HD
+http://livego.club:8080/EzdaLugonja/Expert46/23647
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT Action HD" tvg-logo="" group-title="Live: FILMSKI",CRO: MAXCRO SELECT ACTION HD
+http://livego.club:8080/EzdaLugonja/Expert46/23637
+#EXTINF:-1 tvg-ID="Cinemania.rs" tvg-name="RS: CINEMANIA" tvg-logo="" group-title="Live: FILMSKI",RS: CINEMANIA
+http://livego.club:8080/EzdaLugonja/Expert46/23603
+#EXTINF:-1 tvg-ID="FilmKlub.rs" tvg-name="RS: Film Klub" tvg-logo="[" group-title="Live: FILMSKI",RS: FILM KLUB
+http://livego.club:8080/EzdaLugonja/Expert46/21417
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Film Klub Extra" tvg-logo="" group-title="Live: FILMSKI",RS: FILM KLUB EXTRA
+http://livego.club:8080/EzdaLugonja/Expert46/23614
+#EXTINF:-1 tvg-ID="FilmBoxExtra.rs" tvg-name="RS: Filmbox Extra" tvg-logo="" group-title="Live: FILMSKI",RS: FILMBOX EXTRA
+http://livego.club:8080/EzdaLugonja/Expert46/21416
+#EXTINF:-1 tvg-ID="FilmBoxPlus.rs" tvg-name="RS: Filmbox Plus" tvg-logo="[""]" group-title="Live: FILMSKI",RS: FILMBOX PLUS
+http://livego.club:8080/EzdaLugonja/Expert46/21415
+#EXTINF:-1 tvg-ID="HBOAdria.rs" tvg-name="RS: HBO Adria" tvg-logo="" group-title="Live: FILMSKI",RS: HBO ADRIA
+http://livego.club:8080/EzdaLugonja/Expert46/7736
+#EXTINF:-1 tvg-ID="TVPINK.rs" tvg-name="RS: Pink HD" tvg-logo="" group-title="Live: PINKOVI",RS: PINK HD
+http://livego.club:8080/EzdaLugonja/Expert46/45383
+#EXTINF:0 type="stream" channelId="4302" name="RS: Pink" tvg-logo="" group-title="Live: PINKOVI",RS: PINK
+http://livego.club:8080/EzdaLugonja/Expert46/473
+#EXTINF:0 type="stream" channelId="4302" name="SRB: Pink Folk 2" group="EX-Yu" tvg-country="rs",  PINK FOLK 2
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/7907
+#EXTINF:-1 tvg-ID="Pink3.rs" tvg-name="RS: Pink 3" tvg-logo="" group-title="Live: PINKOVI",RS: PINK 3
+http://livego.club:8080/EzdaLugonja/Expert46/468
+#EXTINF:-1 tvg-ID="PinkAction.rs" tvg-name="RS: Pink Action" tvg-logo="" group-title="Live: PINKOVI",RS: PINK ACTION
+http://livego.club:8080/EzdaLugonja/Expert46/470
+#EXTINF:-1 tvg-ID="PINKBH.hr" tvg-name="RS: Pink BH" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK BH
+http://livego.club:8080/EzdaLugonja/Expert46/465
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Pink Bravo" tvg-logo="" group-title="Live: PINKOVI",RS: PINK BRAVO
+http://livego.club:8080/EzdaLugonja/Expert46/42236
+#EXTINF:-1 tvg-ID="PinkClassic.rs" tvg-name="RS: Pink Classic" tvg-logo="" group-title="Live: PINKOVI",RS: PINK CLASSIC
+http://livego.club:8080/EzdaLugonja/Expert46/38350
+#EXTINF:0 type="stream" channelId="1889" name="SRB: Pink Comedy" group="PINKOVI" logo="[" tvg-country="rs",  PINK COMEDY
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/471
+#EXTINF:0 type="stream" channelId="4289" name="SRB: Pink CRIME & MYSTERY" group="PINKOVI" logo="[" tvg-country="rs",  PINK CRIME & MYSTERY
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/7911
+#EXTINF:0 type="stream" channelId="4304" name="SRB: Pink Extra" group="PINKOVI" logo="[" tvg-country="rs",  PINK EXTRA
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/7914
+#EXTINF:-1 tvg-ID="PinkFamily.hr" tvg-name="RS: Pink Family" tvg-logo="" group-title="Live: PINKOVI",RS: PINK FAMILY
+http://livego.club:8080/EzdaLugonja/Expert46/38351
+#EXTINF:-1 tvg-ID="pinkfashion.rs" tvg-name="RS: Pink Fashion" tvg-logo="" group-title="Live: PINKOVI",RS: PINK FASHION
+http://livego.club:8080/EzdaLugonja/Expert46/42239
+#EXTINF:-1 tvg-ID="PinkFilm.rs" tvg-name="RS: Pink Film" tvg-logo="" group-title="Live: PINKOVI",RS: PINK FILM
+http://livego.club:8080/EzdaLugonja/Expert46/469
+#EXTINF:-1 tvg-ID="PinkFolk1.rs" tvg-name="RS: Pink Folk 1" tvg-logo="" group-title="Live: PINKOVI",RS: PINK FOLK 1
+http://livego.club:8080/EzdaLugonja/Expert46/7906
+#EXTINF:-1 tvg-ID="PinkFolk2.rs" tvg-name="RS: Pink Folk 2" tvg-logo="" group-title="Live: PINKOVI",RS: PINK FOLK 2
+http://livego.club:8080/EzdaLugonja/Expert46/7907
+#EXTINF:-1 tvg-ID="pinkhaha.rs" tvg-name="RS: Pink HAHA" tvg-logo="" group-title="Live: PINKOVI",RS: PINK HAHA
+http://livego.club:8080/EzdaLugonja/Expert46/38352
+#EXTINF:-1 tvg-ID="PinkHits1.rs" tvg-name="RS: Pink Hits" tvg-logo="" group-title="Live: PINKOVI",RS: PINK HITS
+http://livego.club:8080/EzdaLugonja/Expert46/42238
+#EXTINF:-1 tvg-ID="PinkHits2.rs" tvg-name="RS: Pink Hits 2" tvg-logo="" group-title="Live: PINKOVI",RS: PINK HITS 2
+http://livego.club:8080/EzdaLugonja/Expert46/38356
+#EXTINF:-1 tvg-ID="PinkHorror.rs" tvg-name="RS: Pink Horror" tvg-logo="" group-title="Live: PINKOVI",RS: PINK HORROR
+http://livego.club:8080/EzdaLugonja/Expert46/467
+#EXTINF:-1 tvg-ID="PINKKids.rs" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK KIDS
+http://livego.club:8080/EzdaLugonja/Expert46/7909
+#EXTINF:-1 tvg-ID="PinkKoncert.rs" tvg-name="RS: Pink Koncert" tvg-logo="" group-title="Live: PINKOVI",RS: PINK KONCERT
+http://livego.club:8080/EzdaLugonja/Expert46/38355
+#EXTINF:-1 tvg-ID="PinkKuvar.rs" tvg-name="RS: Pink Kuvar" tvg-logo="" group-title="Live: PINKOVI",RS: PINK KUVAR
+http://livego.club:8080/EzdaLugonja/Expert46/7913
+#EXTINF:-1 tvg-ID="pinklol.rs" tvg-name="RS: Pink LOL" tvg-logo="" group-title="Live: PINKOVI",RS: PINK LOL
+http://livego.club:8080/EzdaLugonja/Expert46/38353
+#EXTINF:-1 tvg-ID="PinkMovies.rs" tvg-name="RS: Pink Movies" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK MOVIES
+http://livego.club:8080/EzdaLugonja/Expert46/7910
+#EXTINF:-1 tvg-ID="PinkMusic1.rs" tvg-name="RS: Pink Music" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK MUSIC
+http://livego.club:8080/EzdaLugonja/Expert46/7905
+#EXTINF:-1 tvg-ID="PinkMusic2.rs" tvg-name="RS: Pink Music 2" tvg-logo="" group-title="Live: PINKOVI",RS: PINK MUSIC 2
+http://livego.club:8080/EzdaLugonja/Expert46/42240
+#EXTINF:-1 tvg-ID="PinkPedia.rs" tvg-name="RS: Pink Pedia" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK PEDIA
+http://livego.club:8080/EzdaLugonja/Expert46/466
+#EXTINF:-1 tvg-ID="PinkPlus.rs" tvg-name="RS: Pink Plus" tvg-logo="" group-title="Live: PINKOVI",RS: PINK PLUS
+http://livego.club:8080/EzdaLugonja/Expert46/7908
+#EXTINF:-1 tvg-ID="PinkPremium.rs" tvg-name="RS: Pink Premium" tvg-logo="" group-title="Live: PINKOVI",RS: PINK PREMIUM
+http://livego.club:8080/EzdaLugonja/Expert46/464
+#EXTINF:-1 tvg-ID="PinkReality.rs" tvg-name="RS: Pink Reality" tvg-logo="" group-title="Live: PINKOVI",RS: PINK REALITY
+http://livego.club:8080/EzdaLugonja/Expert46/463
+#EXTINF:-1 tvg-ID="PinkRomance.rs" tvg-name="RS: Pink Romance" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK ROMANCE
+http://livego.club:8080/EzdaLugonja/Expert46/462
+#EXTINF:-1 tvg-ID="PinkRoll.rs" tvg-name="RS: Pink & Roll" tvg-logo="" group-title="Live: PINKOVI",RS: PINK & ROLL
+http://livego.club:8080/EzdaLugonja/Expert46/42237
+#EXTINF:-1 tvg-ID="PinkSciFiFantasy.rs" tvg-name="RS: Pink Sci-FI & Fantasy" tvg-logo="" group-title="Live: PINKOVI",RS: PINK SCI-FI FANTASY
+http://livego.club:8080/EzdaLugonja/Expert46/7912
+#EXTINF:-1 tvg-ID="PinkSerije.rs" tvg-name="RS: Pink Serije" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK SERIJE
+http://livego.club:8080/EzdaLugonja/Expert46/7506
+#EXTINF:-1 tvg-ID="PinkShow.rs" tvg-name="RS: Pink Show" tvg-logo="" group-title="Live: PINKOVI",RS: PINK SHOW
+http://livego.club:8080/EzdaLugonja/Expert46/35700
+#EXTINF:-1 tvg-ID="PinkSoap.rs" tvg-name="RS: Pink Soap" tvg-logo="" group-title="Live: PINKOVI",RS: PINK SOAP
+http://livego.club:8080/EzdaLugonja/Expert46/461
+#EXTINF:-1 tvg-ID="Pinkstyle.rs" tvg-name="RS: Pink Style" tvg-logo="" group-title="Live: PINKOVI",RS: PINK STYLE
+http://livego.club:8080/EzdaLugonja/Expert46/38354
+#EXTINF:-1 tvg-ID="PinkThriller.rs" tvg-name="RS: Pink Thriller" tvg-logo="[" group-title="Live: PINKOVI",RS: PINK THRILLER
+http://livego.club:8080/EzdaLugonja/Expert46/460
+#EXTINF:-1 tvg-ID="PinkWestern.rs" tvg-name="RS: Pink Western" tvg-logo="" group-title="Live: PINKOVI",RS: PINK WESTERN
+http://livego.club:8080/EzdaLugonja/Expert46/459
+#EXTINF:-1 tvg-ID="PinkWorld.rs" tvg-name="RS: Pink World" tvg-logo="" group-title="Live: PINKOVI",RS: PINK WORLD
+http://livego.club:8080/EzdaLugonja/Expert46/458
+#EXTINF:-1 tvg-ID="PinkWorldCinema.rs" tvg-name="RS: Pink World Cinema" tvg-logo="" group-title="Live: PINKOVI",RS: PINK WORLD CINEMA
+http://livego.club:8080/EzdaLugonja/Expert46/7915
+#EXTINF:-1 tvg-ID="PinkZabava.rs" tvg-name="RS: Pink Zabava" tvg-logo="" group-title="Live: PINKOVI",RS: PINK ZABAVA
+http://livego.club:8080/EzdaLugonja/Expert46/457
+#EXTINF:-1 tvg-ID="Pikaboo.svn" tvg-name="RS: Pikaboo" tvg-logo="" group-title="Live: DJECIJI",RS: PIKABOO
+http://livego.club:8080/EzdaLugonja/Expert46/23635
+#EXTINF:-1 tvg-ID="Hayatovci.ba" tvg-name="BH: HAYATOVCI" tvg-logo="[" group-title="Live: DJECIJI",HAYATOVCI
+http://livego.club:8080/EzdaLugonja/Expert46/13551
+#EXTINF:-1 tvg-ID="Minimax.rs" tvg-name="RS: Minimax/Cinemania" tvg-logo="[""]" group-title="Live: DJECIJI",RS: MINIMAX/CINEMANIA
+http://livego.club:8080/EzdaLugonja/Expert46/13545
+#EXTINF:-1 tvg-ID="BabyTV.rs" tvg-name="CRO: Baby TV" tvg-logo="[" group-title="Live: DJECIJI",CRO: BABY TV
+http://livego.club:8080/EzdaLugonja/Expert46/23672
+#EXTINF:-1 tvg-ID="RTLKockica.hr" tvg-name="HR: RTL Kockica" tvg-logo="[""]" group-title="Live: DJECIJI",HR: RTL KOCKICA
+http://livego.club:8080/EzdaLugonja/Expert46/13554
+#EXTINF:-1 tvg-ID="Nickelodeon.hr" tvg-name="CRO: Nickelodeon" tvg-logo="[" group-title="Live: DJECIJI",CRO: NICKELODEON
+http://livego.club:8080/EzdaLugonja/Expert46/23673
+#EXTINF:-1 tvg-ID="NickJR.hr" tvg-name="CRO: Nick Jr" tvg-logo="[" group-title="Live: DJECIJI",CRO: NICK JR
+http://livego.club:8080/EzdaLugonja/Expert46/23674
+#EXTINF:-1 tvg-ID="MiniTV.hr" tvg-name="CRO: Mini TV" tvg-logo="[" group-title="Live: DJECIJI",CRO: MINI TV
+http://livego.club:8080/EzdaLugonja/Expert46/23671
+#EXTINF:0 type="stream" channelId="322" name="RS: Nick Jr." group="DJECIJI" logo="[" tvg-country="rs",  NICK JR
+http://basic-iptvesun.com:8080/EzdaLugonja/Expert46/13549
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Nickelodeon" tvg-logo="" group-title="Live: DJECIJI",RS: NICKELODEON
+http://livego.club:8080/EzdaLugonja/Expert46/13547
+#EXTINF:-1 tvg-ID="ComedyCentralExtra.rs" tvg-name="CRO: Comedy Central Extra" tvg-logo="" group-title="Live: DJECIJI",CRO: COMEDY CENTRAL EXTRA
+http://livego.club:8080/EzdaLugonja/Expert46/23675
+#EXTINF:-1 tvg-ID="ComedyCentralExtra.rs" tvg-name="RS: Comedy Central Extra" tvg-logo="[" group-title="Live: DJECIJI",RS: COMEDY CENTRAL EXTRA
+http://livego.club:8080/EzdaLugonja/Expert46/13532
+#EXTINF:-1 tvg-ID="PINKKids.rs" tvg-name="RS: Pink Kids" tvg-logo="[" group-title="Live: DJECIJI",RS: PINK KIDS
+http://livego.club:8080/EzdaLugonja/Expert46/13553
+#EXTINF:-1 tvg-ID="BabyTV.rs" tvg-name="RS: Baby TV" tvg-logo="[" group-title="Live: DJECIJI",RS: BABY TV
+http://livego.club:8080/EzdaLugonja/Expert46/13546
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Mini TV" tvg-logo="[" group-title="Live: DJECIJI",RS: MINI TV
+http://livego.club:8080/EzdaLugonja/Expert46/13544
+#EXTINF:-1 tvg-ID="MiniUltra.rs" tvg-name="RS: Mini Ultra TV" tvg-logo="[""]" group-title="Live: DJECIJI",RS: MINI ULTRA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23613
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Boomerang" tvg-logo="[" group-title="Live: DJECIJI",RS: BOOMERANG
+http://livego.club:8080/EzdaLugonja/Expert46/13548
+#EXTINF:-1 tvg-ID="PinkSuperKids.rs" tvg-name="RS: SuperKids" tvg-logo="[" group-title="Live: DJECIJI",RS: SUPERKIDS
+http://livego.club:8080/EzdaLugonja/Expert46/13552
+#EXTINF:-1 tvg-ID="BNMusic.ba" tvg-name="BH: BN Music" tvg-logo="" group-title="Live: MUZICKI",BH: BN MUSIC
+http://livego.club:8080/EzdaLugonja/Expert46/7731
+#EXTINF:-1 tvg-ID="OTVValentino.ba" tvg-name="BH: OTV Valentino" tvg-logo="" group-title="Live: MUZICKI",BH: OTV VALENTINO
+http://livego.club:8080/EzdaLugonja/Expert46/7895
+#EXTINF:-1 tvg-ID="HayatMusic.ba" tvg-name="BH: HAYAT Music" tvg-logo="" group-title="Live: MUZICKI",BH: HAYAT MUSIC
+http://livego.club:8080/EzdaLugonja/Expert46/17994
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Muzicka" tvg-logo="" group-title="Live: MUZICKI",VIP BH: DOBRA MUZIČKA
+http://livego.club:8080/EzdaLugonja/Expert46/42659
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BH: Dobra Sevdah" tvg-logo="" group-title="Live: MUZICKI",VIP BH: DOBRA SEVDAH
+http://livego.club:8080/EzdaLugonja/Expert46/42655
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Top Sound" tvg-logo="[""]" group-title="Live: MUZICKI",RS: TOP SOUND
+http://livego.club:8080/EzdaLugonja/Expert46/23618
+#EXTINF:-1 tvg-ID="CMC.hr" tvg-name="CRO: CMC" tvg-logo="" group-title="Live: MUZICKI",CRO: CMC
+http://livego.club:8080/EzdaLugonja/Expert46/2484
+#EXTINF:-1 tvg-ID="Jugoton.hr" tvg-name="CRO: Jugoton TV" tvg-logo="" group-title="Live: MUZICKI",CRO: JUGOTON TV
+http://livego.club:8080/EzdaLugonja/Expert46/23699
+#EXTINF:-1 tvg-ID="NarodnaTV.svn" tvg-name="CRO: Narodna TV" tvg-logo="[" group-title="Live: MUZICKI",CRO: NARODNA TV
+http://livego.club:8080/EzdaLugonja/Expert46/23695
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Balkanika" tvg-logo="" group-title="Live: MUZICKI",RS: BALKANIKA
+http://livego.club:8080/EzdaLugonja/Expert46/7041
+#EXTINF:-1 tvg-ID="DMSAT.rs" tvg-name="RS: DM SAT" tvg-logo="" group-title="Live: MUZICKI",RS: DM SAT
+http://livego.club:8080/EzdaLugonja/Expert46/7040
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Grand 2" tvg-logo="[" group-title="Live: MUZICKI",RS: GRAND 2
+http://livego.club:8080/EzdaLugonja/Expert46/9120
+#EXTINF:-1 tvg-ID="GrandNarodna.rs" tvg-name="RS: Grand TV" tvg-logo="" group-title="Live: MUZICKI",RS: GRAND TV
+http://livego.club:8080/EzdaLugonja/Expert46/7037
+#EXTINF:-1 tvg-ID="HayatFolk.ba" tvg-name="BH: Hayat Folk" tvg-logo="" group-title="Live: MUZICKI",BH: HAYAT FOLK
+http://livego.club:8080/EzdaLugonja/Expert46/7894
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Jugotov TV" tvg-logo="" group-title="Live: MUZICKI",RS: JUGOTOV TV
+http://livego.club:8080/EzdaLugonja/Expert46/7896
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: IDJ TV" tvg-logo="" group-title="Live: MUZICKI",RS: IDJ TV
+http://livego.club:8080/EzdaLugonja/Expert46/14152
+#EXTINF:-1 tvg-ID="" tvg-name="BH: Izvorna TV" tvg-logo="" group-title="Live: MUZICKI",BH: IZVORNA TV
+http://livego.club:8080/EzdaLugonja/Expert46/7897
+#EXTINF:-1 tvg-ID="KCN2.rs" tvg-name="RS: KCN 2" tvg-logo="" group-title="Live: MUZICKI",RS: KCN 2
+http://livego.club:8080/EzdaLugonja/Expert46/21286
+#EXTINF:-1 tvg-ID="KCN3.rs" tvg-name="RS: KCN 3" tvg-logo="" group-title="Live: MUZICKI",RS: KCN 3
+http://livego.club:8080/EzdaLugonja/Expert46/21287
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Yu Planet TV" tvg-logo="[" group-title="Live: MUZICKI",RS: YU PLANET TV
+http://livego.club:8080/EzdaLugonja/Expert46/23601
+#EXTINF:-1 tvg-ID="" tvg-name="RS: TOP TV" tvg-logo="[" group-title="Live: MUZICKI",RS: TOP TV
+http://livego.club:8080/EzdaLugonja/Expert46/23598
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Alice" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Alice
+http://livego.club:8080/EzdaLugonja/Expert46/8271
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Alpha" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Alpha
+http://livego.club:8080/EzdaLugonja/Expert46/18694
+#EXTINF:-1 tvg-ID="animalplanet.it" tvg-name="VIP IT: Sky Cinema Duo+24 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sky Cinema Duo+24 HD
+http://livego.club:8080/EzdaLugonja/Expert46/8272
+#EXTINF:-1 tvg-ID="automototv.it" tvg-name="VIP IT: Automoto TV" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Automoto TV
+http://livego.club:8080/EzdaLugonja/Expert46/8298
+#EXTINF:-1 tvg-ID="babytv.it" tvg-name="VIP IT: Baby TV" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Baby TV
+http://livego.club:8080/EzdaLugonja/Expert46/8286
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Bike HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Bike HD
+http://livego.club:8080/EzdaLugonja/Expert46/18708
+#EXTINF:-1 tvg-ID="blaze.it" tvg-name="VIP IT: Blaze HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Blaze HD
+http://livego.club:8080/EzdaLugonja/Expert46/18693
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="VIP IT: Boing" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Boing
+http://livego.club:8080/EzdaLugonja/Expert46/8287
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Boomerang HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Boomerang HD
+http://livego.club:8080/EzdaLugonja/Expert46/18698
+#EXTINF:-1 tvg-ID="spike.it" tvg-name="VIP IT: Spike" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Spike
+http://livego.club:8080/EzdaLugonja/Expert46/18700
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: MASHA E ORSO TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: MASHA E ORSO TV
+http://livego.club:8080/EzdaLugonja/Expert46/18705
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="VIP IT: Cartoon Network" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Cartoon Network
+http://livego.club:8080/EzdaLugonja/Expert46/8288
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="VIP IT: Cartoonito" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Cartoonito
+http://livego.club:8080/EzdaLugonja/Expert46/8289
+#EXTINF:-1 tvg-ID="crimeinvestigation.it" tvg-name="VIP IT: CI Crime Investigation HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: CI Crime Investigation HD
+http://livego.club:8080/EzdaLugonja/Expert46/18692
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="VIP IT: Cielo HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Cielo HD
+http://livego.club:8080/EzdaLugonja/Expert46/8273
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Class Horse TV" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Class Horse TV
+http://livego.club:8080/EzdaLugonja/Expert46/8299
+#EXTINF:-1 tvg-ID="classica.it" tvg-name="VIP IT: Classica HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Classica HD
+http://livego.club:8080/EzdaLugonja/Expert46/18697
+#EXTINF:-1 tvg-ID="comedycentral.it" tvg-name="VIP IT: Comedy Central HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Comedy Central HD
+http://livego.club:8080/EzdaLugonja/Expert46/18715
+#EXTINF:-1 tvg-ID="deajunior.it" tvg-name="VIP IT: Dea Junior HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Dea Junior HD
+http://livego.club:8080/EzdaLugonja/Expert46/18706
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dea Kids HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Dea Kids HD
+http://livego.club:8080/EzdaLugonja/Expert46/18707
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Deejay TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Deejay TV
+http://livego.club:8080/EzdaLugonja/Expert46/8274
+#EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="VIP IT: Discovery HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Discovery HD
+http://livego.club:8080/EzdaLugonja/Expert46/8275
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="VIP IT: Discovery Science HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Discovery Science HD
+http://livego.club:8080/EzdaLugonja/Expert46/5649
+#EXTINF:-1 tvg-ID="discoverytravelliving.it" tvg-name="VIP IT: Discovery Travel & Living HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Discovery Travel & Living HD
+http://livego.club:8080/EzdaLugonja/Expert46/5650
+#EXTINF:-1 tvg-ID="disneychannel.it" tvg-name="VIP IT: Disney Channel" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Disney Channel
+http://livego.club:8080/EzdaLugonja/Expert46/8306
+#EXTINF:-1 tvg-ID="disneyjunior.it" tvg-name="VIP IT: Disney Junior" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Disney Junior
+http://livego.club:8080/EzdaLugonja/Expert46/8308
+#EXTINF:-1 tvg-ID="disneyxd.it" tvg-name="VIP IT: Disney XD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Disney XD
+http://livego.club:8080/EzdaLugonja/Expert46/8307
+#EXTINF:-1 tvg-ID="dmax.it" tvg-name="VIP IT: Dmax HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dmax HD
+http://livego.club:8080/EzdaLugonja/Expert46/8277
+#EXTINF:-1 tvg-ID="dove.it" tvg-name="VIP IT: Dove TV HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Dove TV HD
+http://livego.club:8080/EzdaLugonja/Expert46/18696
+#EXTINF:-1 tvg-ID="eurosport.it" tvg-name="VIP IT: Eurosport 1" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eurosport 1
+http://livego.club:8080/EzdaLugonja/Expert46/8293
+#EXTINF:-1 tvg-ID="eurosport2.it" tvg-name="VIP IT: Eurosport 2" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eurosport 2
+http://livego.club:8080/EzdaLugonja/Expert46/8294
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fine living" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Fine living
+http://livego.club:8080/EzdaLugonja/Expert46/8280
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fishing TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Fishing TV
+http://livego.club:8080/EzdaLugonja/Expert46/8310
+#EXTINF:-1 tvg-ID="focustv.it" tvg-name="VIP IT: Focus" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Focus
+http://livego.club:8080/EzdaLugonja/Expert46/8278
+#EXTINF:-1 tvg-ID="foodnetworkhd.it" tvg-name="VIP IT: Food Network" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Food Network
+http://livego.club:8080/EzdaLugonja/Expert46/18690
+#EXTINF:-1 tvg-ID="foxanimation.it" tvg-name="VIP IT: RTL 102.5" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RTL 102.5
+http://livego.club:8080/EzdaLugonja/Expert46/5653
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="VIP IT: Fox Crime HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Fox Crime HD
+http://livego.club:8080/EzdaLugonja/Expert46/5655
+#EXTINF:-1 tvg-ID="fox.it" tvg-name="VIP IT: Fox HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Fox HD
+http://livego.club:8080/EzdaLugonja/Expert46/5652
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="VIP IT: Fox Life HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Fox Life HD
+http://livego.club:8080/EzdaLugonja/Expert46/5656
+#EXTINF:-1 tvg-ID="frisbee.it" tvg-name="VIP IT: Frisbee" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Frisbee
+http://livego.club:8080/EzdaLugonja/Expert46/8309
+#EXTINF:-1 tvg-ID="gamberorosso.it" tvg-name="VIP IT: GAMBERRO ROSSO HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: GAMBERRO ROSSO HD
+http://livego.club:8080/EzdaLugonja/Expert46/8281
+#EXTINF:-1 tvg-ID="giallo.it" tvg-name="VIP IT: Giallo" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Giallo
+http://livego.club:8080/EzdaLugonja/Expert46/8279
+#EXTINF:-1 tvg-ID="historychannel.it" tvg-name="VIP IT: History HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: History HD
+http://livego.club:8080/EzdaLugonja/Expert46/8282
+#EXTINF:-1 tvg-ID="interchannel.it" tvg-name="VIP IT: Inter Channel" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Inter Channel
+http://livego.club:8080/EzdaLugonja/Expert46/8321
+#EXTINF:-1 tvg-ID="discoverychannelhd.it" tvg-name="VIP IT: Investigation Discovery" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Investigation Discovery
+http://livego.club:8080/EzdaLugonja/Expert46/8276
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="VIP IT: Iris" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Iris
+http://livego.club:8080/EzdaLugonja/Expert46/8312
+#EXTINF:-1 tvg-ID="italia2.it" tvg-name="VIP IT: Italia 2 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Italia 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/18716
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Italian Fishing TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Italian Fishing TV
+http://livego.club:8080/EzdaLugonja/Expert46/8300
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Juventus Channel" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Juventus Channel
+http://livego.club:8080/EzdaLugonja/Expert46/29141
+#EXTINF:-1 tvg-ID="k2.it" tvg-name="VIP IT: K2" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: K2
+http://livego.club:8080/EzdaLugonja/Expert46/8291
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="VIP IT: La7 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: La7 HD
+http://livego.club:8080/EzdaLugonja/Expert46/18721
+#EXTINF:-1 tvg-ID="la7d.it" tvg-name="VIP IT: La7d HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: La7d HD
+http://livego.club:8080/EzdaLugonja/Expert46/18722
+#EXTINF:-1 tvg-ID="laeffe.it" tvg-name="VIP IT: Laeffe HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Laeffe HD
+http://livego.club:8080/EzdaLugonja/Expert46/18711
+#EXTINF:-1 tvg-ID="laziostylechannel.it" tvg-name="VIP IT: Lazio Style Channel" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Lazio Style Channel
+http://livego.club:8080/EzdaLugonja/Expert46/18710
+#EXTINF:-1 tvg-ID="lei.it" tvg-name="VIP IT: Lei HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Lei HD
+http://livego.club:8080/EzdaLugonja/Expert46/18714
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: M2O TV" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: M2O TV
+http://livego.club:8080/EzdaLugonja/Expert46/8284
+#EXTINF:-1 tvg-ID="manga.it" tvg-name="VIP IT: MANGA" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: MANGA
+http://livego.club:8080/EzdaLugonja/Expert46/8292
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: M4C" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: M4C
+http://livego.club:8080/EzdaLugonja/Expert46/8283
+#EXTINF:-1 tvg-ID="20mediasethd.it" tvg-name="VIP IT: Mediaset 20" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Mediaset 20
+http://livego.club:8080/EzdaLugonja/Expert46/18688
+#EXTINF:-1 tvg-ID="20mediasethd.it" tvg-name="VIP IT: Mediaset 20 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Mediaset 20 HD
+http://livego.club:8080/EzdaLugonja/Expert46/18699
+#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="VIP IT: Mediaset Extra" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Mediaset Extra
+http://livego.club:8080/EzdaLugonja/Expert46/18703
+#EXTINF:-1 tvg-ID="Mmilantv.it" tvg-name="VIP IT: Milan Channel" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Milan Channel
+http://livego.club:8080/EzdaLugonja/Expert46/8323
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Motor Trend SD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Motor Trend SD
+http://livego.club:8080/EzdaLugonja/Expert46/18687
+#EXTINF:-1 tvg-ID="mtv.it" tvg-name="VIP IT: MTV HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: MTV HD
+http://livego.club:8080/EzdaLugonja/Expert46/18686
+#EXTINF:-1 tvg-ID="natgeo.it" tvg-name="VIP IT: Nat Geographic HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Nat Geographic HD
+http://livego.club:8080/EzdaLugonja/Expert46/5659
+#EXTINF:-1 tvg-ID="natgeopeople.it" tvg-name="VIP IT: NatGeo People HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: NatGeo People HD
+http://livego.club:8080/EzdaLugonja/Expert46/5660
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="VIP IT: NatGeo Wild HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: NatGeo Wild HD
+http://livego.club:8080/EzdaLugonja/Expert46/5661
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Nautical HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Nautical HD
+http://livego.club:8080/EzdaLugonja/Expert46/8301
+#EXTINF:-1 tvg-ID="nickelodeon.it" tvg-name="VIP IT: Nickelodeon HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Nickelodeon HD
+http://livego.club:8080/EzdaLugonja/Expert46/18695
+#EXTINF:-1 tvg-ID="nove.it" tvg-name="VIP IT: Nove HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Nove HD
+http://livego.club:8080/EzdaLugonja/Expert46/18685
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="VIP IT: Real Time  1" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Real Time  1
+http://livego.club:8080/EzdaLugonja/Expert46/8313
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="VIP IT: Real Time HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Real Time HD
+http://livego.club:8080/EzdaLugonja/Expert46/8285
+#EXTINF:-1 tvg-ID="romatv.it" tvg-name="VIP IT: Roma Channel" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Roma Channel
+http://livego.club:8080/EzdaLugonja/Expert46/8311
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="VIP IT: Sky Uno HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Uno HD
+http://livego.club:8080/EzdaLugonja/Expert46/5678
+#EXTINF:-1 tvg-ID="skyarte.it" tvg-name="VIP IT: Sky Arte HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Arte HD
+http://livego.club:8080/EzdaLugonja/Expert46/18713
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="VIP IT: Sky Atlantic HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Atlantic HD
+http://livego.club:8080/EzdaLugonja/Expert46/5662
+#EXTINF:-1 tvg-ID="skycinemaunohd.it" tvg-name="VIP IT: Sky Cinema Uno HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Uno HD
+http://livego.club:8080/EzdaLugonja/Expert46/5663
+#EXTINF:-1 tvg-ID="skycinemaduehd.it" tvg-name="VIP IT: Sky Cinema Due HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Due HD
+http://livego.club:8080/EzdaLugonja/Expert46/5665
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="VIP IT: Sky Cinema Comedy HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Comedy HD
+http://livego.club:8080/EzdaLugonja/Expert46/8325
+#EXTINF:-1 tvg-ID="skycinemadramahd.it" tvg-name="VIP IT: Sky Cinema Drama HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Drama HD
+http://livego.club:8080/EzdaLugonja/Expert46/5667
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="VIP IT: Sky Cinema Family HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Family HD
+http://livego.club:8080/EzdaLugonja/Expert46/8324
+#EXTINF:-1 tvg-ID="skycinemacollectionhd.it" tvg-name="VIP IT: Sky Cinema Collection HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Collection HD
+http://livego.club:8080/EzdaLugonja/Expert46/5668
+#EXTINF:-1 tvg-ID="skycinemaactionhd.it" tvg-name="VIP IT: Sky Cinema Action HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Action HD
+http://livego.club:8080/EzdaLugonja/Expert46/5669
+#EXTINF:-1 tvg-ID="skycinemahitshd.it" tvg-name="VIP IT: Sky Cinema Suspance HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Suspance HD
+http://livego.club:8080/EzdaLugonja/Expert46/18680
+#EXTINF:-1 tvg-ID="skycinemaromancehd.it" tvg-name="VIP IT: Sky Cinema Romance HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Romance HD
+http://livego.club:8080/EzdaLugonja/Expert46/5670
+#EXTINF:-1 tvg-ID="skycinemauno+24hd.it" tvg-name="VIP IT: Sky Cinema Uno+24 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Cinema Uno+24 HD
+http://livego.club:8080/EzdaLugonja/Expert46/5664
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="VIP IT: Sky Sport 24 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport 24 HD
+http://livego.club:8080/EzdaLugonja/Expert46/5674
+#EXTINF:-1 tvg-ID="skysport1.it" tvg-name="VIP IT: Sky Sport Uno HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport Uno HD
+http://livego.club:8080/EzdaLugonja/Expert46/5671
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="VIP IT: Sky Sport Arena HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport Arena HD
+http://livego.club:8080/EzdaLugonja/Expert46/5657
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="VIP IT: Sky Sport F1 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport F1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/5675
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="VIP IT: Sky Sport Football HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport Football HD
+http://livego.club:8080/EzdaLugonja/Expert46/5672
+#EXTINF:-1 tvg-ID="skysportgolf.it" tvg-name="VIP IT: Sky Sport Collection HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport Collection HD
+http://livego.club:8080/EzdaLugonja/Expert46/18679
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="VIP IT: Sky Sport MotoGP HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport MotoGP HD
+http://livego.club:8080/EzdaLugonja/Expert46/5676
+#EXTINF:-1 tvg-ID="skysportnba.it" tvg-name="VIP IT: Sky Sport NBA HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport NBA HD
+http://livego.club:8080/EzdaLugonja/Expert46/5673
+#EXTINF:-1 tvg-ID="skysportsseriea.it" tvg-name="VIP IT: Sky Sport Seria A FHD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Sport Seria A FHD
+http://livego.club:8080/EzdaLugonja/Expert46/5677
+#EXTINF:-1 tvg-ID="skysupercalcio.it" tvg-name="VIP IT: Sky Super Calcio HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Super Calcio HD
+http://livego.club:8080/EzdaLugonja/Expert46/26105
+#EXTINF:-1 tvg-ID="skycalcio1.it" tvg-name="VIP IT: Sky Calcio 1 HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Sky Calcio 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7428
+#EXTINF:-1 tvg-ID="skycalcio2.it" tvg-name="VIP IT: Sky Calcio 2 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Calcio 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7429
+#EXTINF:-1 tvg-ID="skycalcio3.it" tvg-name="VIP IT: Sky Calcio 3 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Calcio 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7430
+#EXTINF:-1 tvg-ID="skycalcio4.it" tvg-name="VIP IT: Sky Calcio 4 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Calcio 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7431
+#EXTINF:-1 tvg-ID="skycalcio5.it" tvg-name="VIP IT: Sky Calcio 5 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky Calcio 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7432
+#EXTINF:-1 tvg-ID="skycalcio6.it" tvg-name="VIP IT: Sky Calcio 6 HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Sky Calcio 6 HD
+http://livego.club:8080/EzdaLugonja/Expert46/7433
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 7 HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Sky Calcio 7 HD
+http://livego.club:8080/EzdaLugonja/Expert46/26100
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 8 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sky Calcio 8 HD
+http://livego.club:8080/EzdaLugonja/Expert46/26101
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 9 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sky Calcio 9 HD
+http://livego.club:8080/EzdaLugonja/Expert46/26102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn Seria A 1 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Dazn Seria A 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/26103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn Seria A 2 HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Dazn Seria A 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/26104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 1" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 1
+http://livego.club:8080/EzdaLugonja/Expert46/18760
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 2" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 2
+http://livego.club:8080/EzdaLugonja/Expert46/18759
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 3" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 3
+http://livego.club:8080/EzdaLugonja/Expert46/18758
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Dazn 4" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 4
+http://livego.club:8080/EzdaLugonja/Expert46/18757
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 5" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 5
+http://livego.club:8080/EzdaLugonja/Expert46/18756
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 6" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 6
+http://livego.club:8080/EzdaLugonja/Expert46/18755
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 7" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 7
+http://livego.club:8080/EzdaLugonja/Expert46/18754
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 8" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 8
+http://livego.club:8080/EzdaLugonja/Expert46/18753
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 9" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 9
+http://livego.club:8080/EzdaLugonja/Expert46/18752
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dazn 10" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dazn 10
+http://livego.club:8080/EzdaLugonja/Expert46/18751
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="VIP IT: Sky TG 24" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Sky TG 24
+http://livego.club:8080/EzdaLugonja/Expert46/8304
+#EXTINF:-1 tvg-ID="cinesony.it" tvg-name="VIP IT: Cine Sony" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Cine Sony
+http://livego.club:8080/EzdaLugonja/Expert46/18691
+#EXTINF:-1 tvg-ID="super.it" tvg-name="VIP IT: Super" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Super
+http://livego.club:8080/EzdaLugonja/Expert46/8290
+#EXTINF:-1 tvg-ID="supertennis.it" tvg-name="VIP IT: Supertennis HD" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: Supertennis HD
+http://livego.club:8080/EzdaLugonja/Expert46/8303
+#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="VIP IT: TG Norba 24" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TG Norba 24
+http://livego.club:8080/EzdaLugonja/Expert46/18683
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="VIP IT: TGCOM 24" tvg-logo="[" group-title="Live: ITALIJA",VIP IT: TGCOM 24
+http://livego.club:8080/EzdaLugonja/Expert46/8305
+#EXTINF:-1 tvg-ID="tg24primopiano.it" tvg-name="VIP IT: Top Calcio 24" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Top Calcio 24
+http://livego.club:8080/EzdaLugonja/Expert46/18682
+#EXTINF:-1 tvg-ID="topcrime.it" tvg-name="VIP IT: Top Crime" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Top Crime
+http://livego.club:8080/EzdaLugonja/Expert46/18712
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Torino Channel HD" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: Torino Channel HD
+http://livego.club:8080/EzdaLugonja/Expert46/18709
+#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="VIP IT: TV 2000" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TV 2000
+http://livego.club:8080/EzdaLugonja/Expert46/8314
+#EXTINF:-1 tvg-ID="tv8.it" tvg-name="VIP IT: TV8" tvg-logo="[""]" group-title="Live: ITALIJA",VIP IT: TV8
+http://livego.club:8080/EzdaLugonja/Expert46/18720
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Uniresat HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Uniresat HD
+http://livego.club:8080/EzdaLugonja/Expert46/18681
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: AB Channel (Abruzzo)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: AB Channel (Abruzzo)
+http://livego.club:8080/EzdaLugonja/Expert46/45700
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Aldo Giovanni e Giacomo Channel" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Aldo Giovanni e Giacomo Channel
+http://livego.club:8080/EzdaLugonja/Expert46/45671
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Alpa Uno TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Alpa Uno TV
+http://livego.club:8080/EzdaLugonja/Expert46/45572
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Alto Adige" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Alto Adige
+http://livego.club:8080/EzdaLugonja/Expert46/45594
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ANTENNA 3" tvg-logo="" group-title="Live: ITALIJA",VIP IT: ANTENNA 3
+http://livego.club:8080/EzdaLugonja/Expert46/45601
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Antenna 3 Nord Est" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Antenna 3 Nord Est
+http://livego.club:8080/EzdaLugonja/Expert46/45681
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Antenna Sicilia HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Antenna Sicilia HD
+http://livego.club:8080/EzdaLugonja/Expert46/45660
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Antenna Sud" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Antenna Sud
+http://livego.club:8080/EzdaLugonja/Expert46/45674
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: AutoMoto SD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: AutoMoto SD
+http://livego.club:8080/EzdaLugonja/Expert46/45582
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Caffe Tv 24" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Caffe Tv 24
+http://livego.club:8080/EzdaLugonja/Expert46/45649
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: CAMPANE GOLD 1" tvg-logo="" group-title="Live: ITALIJA",VIP IT: CAMPANE GOLD 1
+http://livego.club:8080/EzdaLugonja/Expert46/45624
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: CANALE 10" tvg-logo="" group-title="Live: ITALIJA",VIP IT: CANALE 10
+http://livego.club:8080/EzdaLugonja/Expert46/45604
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 2 (Basilicata)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale 2 (Basilicata)
+http://livego.club:8080/EzdaLugonja/Expert46/45610
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: CANALE 2 ALTAMURA" tvg-logo="" group-title="Live: ITALIJA",VIP IT: CANALE 2 ALTAMURA
+http://livego.club:8080/EzdaLugonja/Expert46/45573
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 21 Lazio" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale 21 Lazio
+http://livego.club:8080/EzdaLugonja/Expert46/45625
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 7 Ita" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale 7 Ita
+http://livego.club:8080/EzdaLugonja/Expert46/45600
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 8 (Campania)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale 8 (Campania)
+http://livego.club:8080/EzdaLugonja/Expert46/45589
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale 85 (Basilicata)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale 85 (Basilicata)
+http://livego.club:8080/EzdaLugonja/Expert46/45614
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale10" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale10
+http://livego.club:8080/EzdaLugonja/Expert46/45640
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Canale8" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Canale8
+http://livego.club:8080/EzdaLugonja/Expert46/45586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Carina TV (Basilicata)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Carina TV (Basilicata)
+http://livego.club:8080/EzdaLugonja/Expert46/45591
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Cine 34 Mediaset HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Cine 34 Mediaset HD
+http://livego.club:8080/EzdaLugonja/Expert46/45672
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: COMPANY TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: COMPANY TV
+http://livego.club:8080/EzdaLugonja/Expert46/45571
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Cremona 1" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Cremona 1
+http://livego.club:8080/EzdaLugonja/Expert46/45678
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Di TV 3" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Di TV 3
+http://livego.club:8080/EzdaLugonja/Expert46/45707
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Di.TV 90" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Di.TV 90
+http://livego.club:8080/EzdaLugonja/Expert46/45615
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Donna TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Donna TV
+http://livego.club:8080/EzdaLugonja/Expert46/45670
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)
+http://livego.club:8080/EzdaLugonja/Expert46/45668
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ELIVE TV BRESCIA" tvg-logo="" group-title="Live: ITALIJA",VIP IT: ELIVE TV BRESCIA
+http://livego.club:8080/EzdaLugonja/Expert46/45574
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Esperia TV (Calabria)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Esperia TV (Calabria)
+http://livego.club:8080/EzdaLugonja/Expert46/45622
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: eTV Marche" tvg-logo="" group-title="Live: ITALIJA",VIP IT: eTV Marche
+http://livego.club:8080/EzdaLugonja/Expert46/45619
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Euronews Live HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Euronews Live HD
+http://livego.club:8080/EzdaLugonja/Expert46/45592
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fantozzi Channel" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Fantozzi Channel
+http://livego.club:8080/EzdaLugonja/Expert46/45570
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fashion TV FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Fashion TV FHD
+http://livego.club:8080/EzdaLugonja/Expert46/45646
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: GOLD TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: GOLD TV
+http://livego.club:8080/EzdaLugonja/Expert46/45658
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Granducato TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Granducato TV
+http://livego.club:8080/EzdaLugonja/Expert46/45656
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: HSE24" tvg-logo="" group-title="Live: ITALIJA",VIP IT: HSE24
+http://livego.club:8080/EzdaLugonja/Expert46/45579
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Hunting (Caccia)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Hunting (Caccia)
+http://livego.club:8080/EzdaLugonja/Expert46/45587
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Julie Italia (Campania)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Julie Italia (Campania)
+http://livego.club:8080/EzdaLugonja/Expert46/45598
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: La Casa di Topolino Channel" tvg-logo="" group-title="Live: ITALIJA",VIP IT: La Casa di Topolino Channel
+http://livego.club:8080/EzdaLugonja/Expert46/45667
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: La Nuova TV  HD (Basilicata)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: La Nuova TV  HD (Basilicata)
+http://livego.club:8080/EzdaLugonja/Expert46/45705
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: LA TR3" tvg-logo="" group-title="Live: ITALIJA",VIP IT: LA TR3
+http://livego.club:8080/EzdaLugonja/Expert46/45631
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Lucania.TV (Basilicata)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Lucania.TV (Basilicata)
+http://livego.club:8080/EzdaLugonja/Expert46/45694
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Lupin III Channel" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Lupin III Channel
+http://livego.club:8080/EzdaLugonja/Expert46/45669
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: m2o (musica)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: m2o (musica)
+http://livego.club:8080/EzdaLugonja/Expert46/45637
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: MEDIASPORT" tvg-logo="" group-title="Live: ITALIJA",VIP IT: MEDIASPORT
+http://livego.club:8080/EzdaLugonja/Expert46/45662
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Napoli Canale 21 TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Napoli Canale 21 TV
+http://livego.club:8080/EzdaLugonja/Expert46/45661
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Napoli Icaro TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Napoli Icaro TV
+http://livego.club:8080/EzdaLugonja/Expert46/45715
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Onda TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Onda TV
+http://livego.club:8080/EzdaLugonja/Expert46/45597
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: One TV Emilia HD (EmiliaRomagna)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: One TV Emilia HD (EmiliaRomagna)
+http://livego.club:8080/EzdaLugonja/Expert46/45602
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Orler TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Orler TV
+http://livego.club:8080/EzdaLugonja/Expert46/45620
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: OTTO FM" tvg-logo="" group-title="Live: ITALIJA",VIP IT: OTTO FM
+http://livego.club:8080/EzdaLugonja/Expert46/45575
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: PESCARA TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: PESCARA TV
+http://livego.club:8080/EzdaLugonja/Expert46/45576
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Primocanale TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Primocanale TV
+http://livego.club:8080/EzdaLugonja/Expert46/45609
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Quarta Rete TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Quarta Rete TV
+http://livego.club:8080/EzdaLugonja/Expert46/45588
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: QVC Italia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: QVC Italia
+http://livego.club:8080/EzdaLugonja/Expert46/45653
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RADIO 51" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RADIO 51
+http://livego.club:8080/EzdaLugonja/Expert46/45629
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Bruno TV (musica)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Bruno TV (musica)
+http://livego.club:8080/EzdaLugonja/Expert46/45682
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Italia TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Italia TV
+http://livego.club:8080/EzdaLugonja/Expert46/45580
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Italia Vision (EmiliaRomagna)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Italia Vision (EmiliaRomagna)
+http://livego.club:8080/EzdaLugonja/Expert46/45677
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Monte Carlo" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Monte Carlo
+http://livego.club:8080/EzdaLugonja/Expert46/45692
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Norba TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Norba TV
+http://livego.club:8080/EzdaLugonja/Expert46/45618
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Radicale Camera TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Radicale Camera TV
+http://livego.club:8080/EzdaLugonja/Expert46/45688
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Radicale Senato TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Radicale Senato TV
+http://livego.club:8080/EzdaLugonja/Expert46/45689
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Radicale TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Radicale TV
+http://livego.club:8080/EzdaLugonja/Expert46/45687
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Taormina TV (musica)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Taormina TV (musica)
+http://livego.club:8080/EzdaLugonja/Expert46/45683
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Radio Tv Azzura" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Radio Tv Azzura
+http://livego.club:8080/EzdaLugonja/Expert46/45657
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 1 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Rai 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/45680
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 2 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Rai 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/45702
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Nettuno" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Rai Nettuno
+http://livego.club:8080/EzdaLugonja/Expert46/45638
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Storia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Rai Storia
+http://livego.club:8080/EzdaLugonja/Expert46/45654
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RETE VENETA" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RETE VENETA
+http://livego.club:8080/EzdaLugonja/Expert46/45630
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ReteBiella TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: ReteBiella TV
+http://livego.club:8080/EzdaLugonja/Expert46/45607
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ReteSole Lazio" tvg-logo="" group-title="Live: ITALIJA",VIP IT: ReteSole Lazio
+http://livego.club:8080/EzdaLugonja/Expert46/45596
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: ReteSole Umbria" tvg-logo="" group-title="Live: ITALIJA",VIP IT: ReteSole Umbria
+http://livego.club:8080/EzdaLugonja/Expert46/45713
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RMM TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RMM TV
+http://livego.club:8080/EzdaLugonja/Expert46/45635
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rossini TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Rossini TV
+http://livego.club:8080/EzdaLugonja/Expert46/45595
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTL 102.5 TV (musica)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RTL 102.5 TV (musica)
+http://livego.club:8080/EzdaLugonja/Expert46/45641
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTP" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RTP
+http://livego.club:8080/EzdaLugonja/Expert46/45577
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTV 105 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RTV 105 HD
+http://livego.club:8080/EzdaLugonja/Expert46/45691
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: RTV 38" tvg-logo="" group-title="Live: ITALIJA",VIP IT: RTV 38
+http://livego.club:8080/EzdaLugonja/Expert46/45578
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: San Marino RTV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: San Marino RTV
+http://livego.club:8080/EzdaLugonja/Expert46/45684
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sardegna Uno TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sardegna Uno TV
+http://livego.club:8080/EzdaLugonja/Expert46/45593
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Scuola di Polizia Channel" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Scuola di Polizia Channel
+http://livego.club:8080/EzdaLugonja/Expert46/45583
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Sport Italia Solo Calcio" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sport Italia Solo Calcio
+http://livego.club:8080/EzdaLugonja/Expert46/45711
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sport Italia Live24" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sport Italia Live24
+http://livego.club:8080/EzdaLugonja/Expert46/45717
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sport Italia Motori" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Sport Italia Motori
+http://livego.club:8080/EzdaLugonja/Expert46/45716
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia 24H HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SportItalia 24H HD
+http://livego.club:8080/EzdaLugonja/Expert46/45665
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SportItalia HD
+http://livego.club:8080/EzdaLugonja/Expert46/45696
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia Motori HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SportItalia Motori HD
+http://livego.club:8080/EzdaLugonja/Expert46/45664
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SportItalia Solo Calcio HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SportItalia Solo Calcio HD
+http://livego.club:8080/EzdaLugonja/Expert46/45666
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Studio 100" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Studio 100
+http://livego.club:8080/EzdaLugonja/Expert46/45599
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Super J HD (Abruzzo)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Super J HD (Abruzzo)
+http://livego.club:8080/EzdaLugonja/Expert46/45698
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Super TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Super TV
+http://livego.club:8080/EzdaLugonja/Expert46/45645
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Arena Siena" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Arena Siena
+http://livego.club:8080/EzdaLugonja/Expert46/45712
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Boario" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Boario
+http://livego.club:8080/EzdaLugonja/Expert46/45706
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Chiara" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Chiara
+http://livego.club:8080/EzdaLugonja/Expert46/45626
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TELE FRIULI" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TELE FRIULI
+http://livego.club:8080/EzdaLugonja/Expert46/45584
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Occidente" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Occidente
+http://livego.club:8080/EzdaLugonja/Expert46/45703
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Padova Telecitt" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Padova Telecitt
+http://livego.club:8080/EzdaLugonja/Expert46/45708
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Pordenone" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Pordenone
+http://livego.club:8080/EzdaLugonja/Expert46/45585
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Sirio (Abruzzo)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Sirio (Abruzzo)
+http://livego.club:8080/EzdaLugonja/Expert46/45704
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tele Video Agrigento" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tele Video Agrigento
+http://livego.club:8080/EzdaLugonja/Expert46/45616
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleBari Tv" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleBari Tv
+http://livego.club:8080/EzdaLugonja/Expert46/45590
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Telecentro 2" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Telecentro 2
+http://livego.club:8080/EzdaLugonja/Expert46/45652
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Telecolor Sicilia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Telecolor Sicilia
+http://livego.club:8080/EzdaLugonja/Expert46/45663
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleColore (Campania)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleColore (Campania)
+http://livego.club:8080/EzdaLugonja/Expert46/45611
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleDehonTV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleDehonTV
+http://livego.club:8080/EzdaLugonja/Expert46/45701
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Teleliguria Sud" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Teleliguria Sud
+http://livego.club:8080/EzdaLugonja/Expert46/45655
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleMIa (Calabria)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleMIa (Calabria)
+http://livego.club:8080/EzdaLugonja/Expert46/45643
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleMonteNeve" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleMonteNeve
+http://livego.club:8080/EzdaLugonja/Expert46/45642
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleMonteNeve3" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleMonteNeve3
+http://livego.club:8080/EzdaLugonja/Expert46/45650
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleNorba TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleNorba TV
+http://livego.club:8080/EzdaLugonja/Expert46/45714
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TelePace Tv" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TelePace Tv
+http://livego.club:8080/EzdaLugonja/Expert46/45709
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Telepavia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Telepavia
+http://livego.club:8080/EzdaLugonja/Expert46/45639
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleRadioSciacca" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleRadioSciacca
+http://livego.club:8080/EzdaLugonja/Expert46/45617
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Teleromagna (EmiliaRomagna)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Teleromagna (EmiliaRomagna)
+http://livego.club:8080/EzdaLugonja/Expert46/45693
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleSondrio Lecco" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleSondrio Lecco
+http://livego.club:8080/EzdaLugonja/Expert46/45685
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleSondrio Livigno" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleSondrio Livigno
+http://livego.club:8080/EzdaLugonja/Expert46/45633
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleSondrioNews" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleSondrioNews
+http://livego.club:8080/EzdaLugonja/Expert46/45632
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleStar1" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleStar1
+http://livego.club:8080/EzdaLugonja/Expert46/45651
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Televaldarno RTV38" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Televaldarno RTV38
+http://livego.club:8080/EzdaLugonja/Expert46/45647
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TeleVenezia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TeleVenezia
+http://livego.club:8080/EzdaLugonja/Expert46/45605
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TG Com 24" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TG Com 24
+http://livego.club:8080/EzdaLugonja/Expert46/45710
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TR Mia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TR Mia
+http://livego.club:8080/EzdaLugonja/Expert46/45697
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TR Mia (EmiliaRomagna)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TR Mia (EmiliaRomagna)
+http://livego.club:8080/EzdaLugonja/Expert46/45695
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Trentino TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Trentino TV
+http://livego.club:8080/EzdaLugonja/Expert46/45608
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TRM TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TRM TV
+http://livego.club:8080/EzdaLugonja/Expert46/45690
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TSD TV Arezzo" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TSD TV Arezzo
+http://livego.club:8080/EzdaLugonja/Expert46/45676
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TSN Visualradio" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TSN Visualradio
+http://livego.club:8080/EzdaLugonja/Expert46/45699
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tv 6 (Abruzzo)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tv 6 (Abruzzo)
+http://livego.club:8080/EzdaLugonja/Expert46/45612
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV Agrigento" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TV Agrigento
+http://livego.club:8080/EzdaLugonja/Expert46/45675
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Tv Avicenza" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Tv Avicenza
+http://livego.club:8080/EzdaLugonja/Expert46/45606
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV CAMPANE GOLD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TV CAMPANE GOLD
+http://livego.club:8080/EzdaLugonja/Expert46/45659
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV Luna" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TV Luna
+http://livego.club:8080/EzdaLugonja/Expert46/45623
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV Qui Modena (EmiliaRomagna)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TV Qui Modena (EmiliaRomagna)
+http://livego.club:8080/EzdaLugonja/Expert46/45603
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TV2000 qHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TV2000 qHD
+http://livego.club:8080/EzdaLugonja/Expert46/45636
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: TVRS" tvg-logo="" group-title="Live: ITALIJA",VIP IT: TVRS
+http://livego.club:8080/EzdaLugonja/Expert46/45634
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Umbria TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Umbria TV
+http://livego.club:8080/EzdaLugonja/Expert46/45648
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Vera TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Vera TV
+http://livego.club:8080/EzdaLugonja/Expert46/45627
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: VH1 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: VH1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/45581
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Brescia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Video Brescia
+http://livego.club:8080/EzdaLugonja/Expert46/45644
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Calabria (Calabria)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Video Calabria (Calabria)
+http://livego.club:8080/EzdaLugonja/Expert46/45621
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Star TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Video Star TV
+http://livego.club:8080/EzdaLugonja/Expert46/45613
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Video Tolento" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Video Tolento
+http://livego.club:8080/EzdaLugonja/Expert46/45628
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: VideoNola TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: VideoNola TV
+http://livego.club:8080/EzdaLugonja/Expert46/45673
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Virgin Radio TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Virgin Radio TV
+http://livego.club:8080/EzdaLugonja/Expert46/45679
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: VisualRadio TV (musica)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: VisualRadio TV (musica)
+http://livego.club:8080/EzdaLugonja/Expert46/45686
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Fano TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Fano TV
+http://livego.club:8080/EzdaLugonja/Expert46/35177
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: LAZIO TV" tvg-logo="" group-title="Live: ITALIJA",VIP IT: LAZIO TV
+http://livego.club:8080/EzdaLugonja/Expert46/35229
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Motor Trend HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Motor Trend HD
+http://livego.club:8080/EzdaLugonja/Expert46/35235
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Pesca e Caccia" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Pesca e Caccia
+http://livego.club:8080/EzdaLugonja/Expert46/35204
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Dragon Ball Z Channel FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Dragon Ball Z Channel FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35060
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: EAGLE 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: EAGLE 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35043
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle American Dad 24H" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle American Dad 24H
+http://livego.club:8080/EzdaLugonja/Expert46/35052
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Brickleberry FHD 24H" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Brickleberry FHD 24H
+http://livego.club:8080/EzdaLugonja/Expert46/35051
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema 007 HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema 007 HD
+http://livego.club:8080/EzdaLugonja/Expert46/35047
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Animazione FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Animazione FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35028
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Avventura FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Avventura FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Azione FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Azione FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35026
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Cinema Biografico FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Biografico FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35062
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Bud Spencer HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Bud Spencer HD
+http://livego.club:8080/EzdaLugonja/Expert46/35048
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Comico Cult FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Comico Cult FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35021
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Commedia FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Commedia FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35023
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Drammatico FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Drammatico FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35017
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Cinema Famiglia FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Famiglia FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35063
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Cinema Fantascienza FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Fantascienza FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35064
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Fantastico FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Fantastico FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35024
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Film in Sala  HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Film in Sala  HD
+http://livego.club:8080/EzdaLugonja/Expert46/35029
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Horror FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Horror FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35016
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Mitologia HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Mitologia HD
+http://livego.club:8080/EzdaLugonja/Expert46/35030
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Passione FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Passione FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35018
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Prima Visione FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Prima Visione FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35027
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Religion HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Religion HD
+http://livego.club:8080/EzdaLugonja/Expert46/35044
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Sorriso FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Sorriso FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35022
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Spaghetti Western FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Spaghetti Western FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35046
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Storico FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Storico FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35019
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Thriller FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Thriller FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35020
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinema Western FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinema Western FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35045
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Cinepanettone HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Cinepanettone HD
+http://livego.club:8080/EzdaLugonja/Expert46/35055
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Disney Topolino Paperino e Pippo HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Disney Topolino Paperino e Pippo HD
+http://livego.club:8080/EzdaLugonja/Expert46/35035
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Fiabe Magiche HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Fiabe Magiche HD
+http://livego.club:8080/EzdaLugonja/Expert46/35033
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 1 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Gomorra Stagione 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35039
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 2 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Gomorra Stagione 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35040
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 3 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Gomorra Stagione 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35041
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Gomorra Stagione 4 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Gomorra Stagione 4 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35042
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Le Fiabe Disney" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Le Fiabe Disney
+http://livego.club:8080/EzdaLugonja/Expert46/35031
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Looney Toons HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Looney Toons HD
+http://livego.club:8080/EzdaLugonja/Expert46/35036
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Masha e Orso HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Masha e Orso HD
+http://livego.club:8080/EzdaLugonja/Expert46/35032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Nature Discovery 4K (double audio)" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Nature Discovery 4K (double audio)
+http://livego.club:8080/EzdaLugonja/Expert46/35049
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Nature Explorer FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Nature Explorer FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35050
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Peppa Pig FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Peppa Pig FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35034
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Peter Griffin 24H" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Peter Griffin 24H
+http://livego.club:8080/EzdaLugonja/Expert46/35053
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle Super Pigiamini FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Super Pigiamini FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35037
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Eagle The Cleveland Show 24H" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle The Cleveland Show 24H
+http://livego.club:8080/EzdaLugonja/Expert46/35054
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Eagle Trono di Spade S08" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Eagle Trono di Spade S08
+http://livego.club:8080/EzdaLugonja/Expert46/35038
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 3D" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 3D
+http://livego.club:8080/EzdaLugonja/Expert46/34996
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Vetrina Sky Primafila HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: Vetrina Sky Primafila HD
+http://livego.club:8080/EzdaLugonja/Expert46/34993
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 1 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34992
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 2 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34991
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 3 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 3 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34990
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 4 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 4 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34989
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 5 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 5 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34988
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 6 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 6 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34987
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 7 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 7 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34986
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 1 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 1 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35005
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 2 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 2 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35006
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 3 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 3 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35007
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 5 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 5 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35009
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 6 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 6 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35010
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 7 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 7 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35011
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 8 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 8 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35012
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 9 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 9 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35013
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 4 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 4 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35008
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 8 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 8 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34985
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 9 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 9 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34984
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 10 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 10 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34983
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 11 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 11 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34995
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 12 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 12 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34994
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 13 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 13 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35000
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 14 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 14 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35001
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 15 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 15 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35002
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 16 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 16 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35003
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA 17 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA 17 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/35004
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 1 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA MULTIVISION 1 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35014
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 2 4K" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA MULTIVISION 2 4K
+http://livego.club:8080/EzdaLugonja/Expert46/35015
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 1 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA MULTIVISION 1 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34998
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA MULTIVISION 2 FHD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA MULTIVISION 2 FHD
+http://livego.club:8080/EzdaLugonja/Expert46/34999
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: SKY PRIMAFILA WWE HD" tvg-logo="" group-title="Live: ITALIJA",VIP IT: SKY PRIMAFILA WWE HD
+http://livego.club:8080/EzdaLugonja/Expert46/34997
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="IT: Rai 1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Rai 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/977
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="IT: Rai 2 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Rai 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/978
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="IT: Rai 3 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Rai 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/979
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="IT: Rai 4" tvg-logo="" group-title="Live: ITALIJA",IT: Rai 4
+http://livego.club:8080/EzdaLugonja/Expert46/996
+#EXTINF:-1 tvg-ID="rai5.it" tvg-name="IT: Rai 5" tvg-logo="" group-title="Live: ITALIJA",IT: Rai 5
+http://livego.club:8080/EzdaLugonja/Expert46/997
+#EXTINF:-1 tvg-ID="rainews.it" tvg-name="IT: Rai News 24" tvg-logo="" group-title="Live: ITALIJA",IT: Rai News 24
+http://livego.club:8080/EzdaLugonja/Expert46/1013
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT: Italia 1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Italia 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/982
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="IT: Rete 4 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Rete 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/980
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT: Canale 5 HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Canale 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/981
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="IT: La 5" tvg-logo="" group-title="Live: ITALIJA",IT: La 5
+http://livego.club:8080/EzdaLugonja/Expert46/2280
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="IT: La 7 HD" tvg-logo="[" group-title="Live: ITALIJA",IT: La 7 HD
+http://livego.club:8080/EzdaLugonja/Expert46/983
+#EXTINF:-1 tvg-ID="RSI LA 1 HD CH" tvg-name="IT: RSI La 1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: RSI La 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/984
+#EXTINF:-1 tvg-ID="RSI LA 2 HD CH" tvg-name="IT: RSI La 2 HD" tvg-logo="[" group-title="Live: ITALIJA",IT: RSI La 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/985
+#EXTINF:-1 tvg-ID="raisport.it" tvg-name="IT: Rai Sport  HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Rai Sport  HD
+http://livego.club:8080/EzdaLugonja/Expert46/2274
+#EXTINF:-1 tvg-ID="raisport2.it" tvg-name="IT: Rai sport +HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Rai sport +HD
+http://livego.club:8080/EzdaLugonja/Expert46/2273
+#EXTINF:-1 tvg-ID="raipremium.it" tvg-name="IT: Rai premium HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Rai premium HD
+http://livego.club:8080/EzdaLugonja/Expert46/2275
+#EXTINF:-1 tvg-ID="raigulp.it" tvg-name="IT: Rai Gulp" tvg-logo="[""]" group-title="Live: ITALIJA",IT: Rai Gulp
+http://livego.club:8080/EzdaLugonja/Expert46/18717
+#EXTINF:-1 tvg-ID="raiscuola.it" tvg-name="IT: Rai Scuola" tvg-logo="" group-title="Live: ITALIJA",IT: Rai Scuola
+http://livego.club:8080/EzdaLugonja/Expert46/18719
+#EXTINF:-1 tvg-ID="raistoria.it" tvg-name="IT: Rai Storia HD" tvg-logo="[""]" group-title="Live: ITALIJA",IT: Rai Storia HD
+http://livego.club:8080/EzdaLugonja/Expert46/18718
+#EXTINF:-1 tvg-ID="raiyoyo.it" tvg-name="IT: Rai yoyo" tvg-logo="[""]" group-title="Live: ITALIJA",IT: Rai yoyo
+http://livego.club:8080/EzdaLugonja/Expert46/2272
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="IT: Rai Movie HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Rai Movie HD
+http://livego.club:8080/EzdaLugonja/Expert46/2276
+#EXTINF:-1 tvg-ID="skysport1.it" tvg-name="IT: Sky Sport Uno HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Sport Uno HD
+http://livego.club:8080/EzdaLugonja/Expert46/408
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="IT: Sky Sport Arena HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Sport Arena HD
+http://livego.club:8080/EzdaLugonja/Expert46/409
+#EXTINF:-1 tvg-ID="skysportsseriea.it" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Sport Serie A HD
+http://livego.club:8080/EzdaLugonja/Expert46/541
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IT: Sky Sport Plus HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Sport Plus HD
+http://livego.club:8080/EzdaLugonja/Expert46/848
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="IT: Sky Sport 24HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Sport 24HD
+http://livego.club:8080/EzdaLugonja/Expert46/410
+#EXTINF:-1 tvg-ID="skycalcio1.it" tvg-name="IT: Sky Supercalcio HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Supercalcio HD
+http://livego.club:8080/EzdaLugonja/Expert46/542
+#EXTINF:-1 tvg-ID="sportitalia.it" tvg-name="IT: Sport italia" tvg-logo="" group-title="Live: ITALIJA",IT: Sport italia
+http://livego.club:8080/EzdaLugonja/Expert46/948
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Sport F1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/407
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="IT: Sky Moto GP HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Moto GP HD
+http://livego.club:8080/EzdaLugonja/Expert46/543
+#EXTINF:-1 tvg-ID="supertennis.it" tvg-name="IT: Sky Super Tennis HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Super Tennis HD
+http://livego.club:8080/EzdaLugonja/Expert46/949
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Juventus TV" tvg-logo="" group-title="Live: ITALIJA",IT: Juventus TV
+http://livego.club:8080/EzdaLugonja/Expert46/857
+#EXTINF:-1 tvg-ID="skyarte.it" tvg-name="IT: Sky Arte HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Arte HD
+http://livego.club:8080/EzdaLugonja/Expert46/994
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IT: SKY UNO HD" tvg-logo="" group-title="Live: ITALIJA",IT: SKY UNO HD
+http://livego.club:8080/EzdaLugonja/Expert46/398
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="IT: Sky Atlantic HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Sky Atlantic HD
+http://livego.club:8080/EzdaLugonja/Expert46/395
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema 1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/550
+#EXTINF:-1 tvg-ID="skycinemaduehd.it" tvg-name="IT: Sky Cinema Duo HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema Duo HD
+http://livego.club:8080/EzdaLugonja/Expert46/399
+#EXTINF:-1 tvg-ID="skycinemaunohd.it" tvg-name="IT: Sky Cinema  1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema  1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/986
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Sky Cinema Comedy HD
+http://livego.club:8080/EzdaLugonja/Expert46/394
+#EXTINF:-1 tvg-ID="skycinemapassionhd.it" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema Passion HD
+http://livego.club:8080/EzdaLugonja/Expert46/552
+#EXTINF:-1 tvg-ID="skycinemaclassics.it" tvg-name="IT: Sky Cinema Classic HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema Classic HD
+http://livego.club:8080/EzdaLugonja/Expert46/950
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema Family HD
+http://livego.club:8080/EzdaLugonja/Expert46/551
+#EXTINF:-1 tvg-ID="skycinemamax.it" tvg-name="IT: Sky Cinema Action HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema Action HD
+http://livego.club:8080/EzdaLugonja/Expert46/396
+#EXTINF:-1 tvg-ID="skycinemacollectionhd.it" tvg-name="IT: Sky Cinema Collection HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Cinema Collection HD
+http://livego.club:8080/EzdaLugonja/Expert46/397
+#EXTINF:-1 tvg-ID="premiumcinemadtt.it" tvg-name="IT: Premium Cinema HD" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Cinema HD
+http://livego.club:8080/EzdaLugonja/Expert46/392
+#EXTINF:-1 tvg-ID="premiumcinema2.it" tvg-name="IT: Premium Cinema2 +24HD" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Cinema2 +24HD
+http://livego.club:8080/EzdaLugonja/Expert46/387
+#EXTINF:-1 tvg-ID="premiumcrime.it" tvg-name="IT: Premium Crime HD" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Crime HD
+http://livego.club:8080/EzdaLugonja/Expert46/384
+#EXTINF:-1 tvg-ID="premiumaction.it" tvg-name="IT: Premium Action HD" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Action HD
+http://livego.club:8080/EzdaLugonja/Expert46/389
+#EXTINF:-1 tvg-ID="premiumstories.it" tvg-name="IT: Premium Stories" tvg-logo="[" group-title="Live: ITALIJA",IT: Premium Stories
+http://livego.club:8080/EzdaLugonja/Expert46/391
+#EXTINF:-1 tvg-ID="premiumcinemaemotion.it" tvg-name="IT: Premium Emotion" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Emotion
+http://livego.club:8080/EzdaLugonja/Expert46/859
+#EXTINF:-1 tvg-ID="premiumcinemaenergy.it" tvg-name="IT: Premium Energy HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Premium Energy HD
+http://livego.club:8080/EzdaLugonja/Expert46/388
+#EXTINF:-1 tvg-ID="premiumcomedydtt.it" tvg-name="IT: Premium Comedy" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Comedy
+http://livego.club:8080/EzdaLugonja/Expert46/385
+#EXTINF:-1 tvg-ID="premiumcrimedtt.it" tvg-name="IT: Premium Crime 24" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Crime 24
+http://livego.club:8080/EzdaLugonja/Expert46/393
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Premium Studio Universal" tvg-logo="" group-title="Live: ITALIJA",IT: Premium Studio Universal
+http://livego.club:8080/EzdaLugonja/Expert46/2277
+#EXTINF:-1 tvg-ID="fox.it" tvg-name="IT: Fox HD" tvg-logo="" group-title="Live: ITALIJA",IT: Fox HD
+http://livego.club:8080/EzdaLugonja/Expert46/989
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="IT: Fox Life HD" tvg-logo="" group-title="Live: ITALIJA",IT: Fox Life HD
+http://livego.club:8080/EzdaLugonja/Expert46/990
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="IT: Fox Crime HD" tvg-logo="" group-title="Live: ITALIJA",IT: Fox Crime HD
+http://livego.club:8080/EzdaLugonja/Expert46/991
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="IT: Cielo HD" tvg-logo="[" group-title="Live: ITALIJA",IT: Cielo HD
+http://livego.club:8080/EzdaLugonja/Expert46/998
+#EXTINF:-1 tvg-ID="dmax.it" tvg-name="IT: Dmax HD" tvg-logo="" group-title="Live: ITALIJA",IT: Dmax HD
+http://livego.club:8080/EzdaLugonja/Expert46/995
+#EXTINF:-1 tvg-ID="historychannel.it" tvg-name="IT: History HD" tvg-logo="" group-title="Live: ITALIJA",IT: History HD
+http://livego.club:8080/EzdaLugonja/Expert46/1001
+#EXTINF:-1 tvg-ID="natgeo.it" tvg-name="IT: National Geo HD" tvg-logo="" group-title="Live: ITALIJA",IT: National Geo HD
+http://livego.club:8080/EzdaLugonja/Expert46/1005
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="IT: Nat Geo Wild HD" tvg-logo="" group-title="Live: ITALIJA",IT: Nat Geo Wild HD
+http://livego.club:8080/EzdaLugonja/Expert46/1004
+#EXTINF:-1 tvg-ID="natgeopeople.it" tvg-name="IT: Nat Geo People HD" tvg-logo="" group-title="Live: ITALIJA",IT: Nat Geo People HD
+http://livego.club:8080/EzdaLugonja/Expert46/1006
+#EXTINF:-1 tvg-ID="animalplanet.it" tvg-name="IT: M2O" tvg-logo="" group-title="Live: ITALIJA",IT: M2O
+http://livego.club:8080/EzdaLugonja/Expert46/1000
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="IT: Discovery Science HD" tvg-logo="" group-title="Live: ITALIJA",IT: Discovery Science HD
+http://livego.club:8080/EzdaLugonja/Expert46/999
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Discovery Travel & Living HD" tvg-logo="" group-title="Live: ITALIJA",IT: Discovery Travel & Living HD
+http://livego.club:8080/EzdaLugonja/Expert46/1003
+#EXTINF:-1 tvg-ID="focustv.it" tvg-name="IT: Discovery focus" tvg-logo="" group-title="Live: ITALIJA",IT: Discovery focus
+http://livego.club:8080/EzdaLugonja/Expert46/1002
+#EXTINF:-1 tvg-ID="gamberorosso.it" tvg-name="IT: Gambero Rosso HD" tvg-logo="" group-title="Live: ITALIJA",IT: Gambero Rosso HD
+http://livego.club:8080/EzdaLugonja/Expert46/1009
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="IT: Cartoonito" tvg-logo="" group-title="Live: ITALIJA",IT: Cartoonito
+http://livego.club:8080/EzdaLugonja/Expert46/1010
+#EXTINF:-1 tvg-ID="k2.it" tvg-name="IT: K2" tvg-logo="" group-title="Live: ITALIJA",IT: K2
+http://livego.club:8080/EzdaLugonja/Expert46/1011
+#EXTINF:-1 tvg-ID="super.it" tvg-name="IT: Super!" tvg-logo="" group-title="Live: ITALIJA",IT: Super!
+http://livego.club:8080/EzdaLugonja/Expert46/2270
+#EXTINF:-1 tvg-ID="mtv.it" tvg-name="IT: MTV" tvg-logo="" group-title="Live: ITALIJA",IT: MTV
+http://livego.club:8080/EzdaLugonja/Expert46/2279
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fine Living" tvg-logo="" group-title="Live: ITALIJA",IT: Fine Living
+http://livego.club:8080/EzdaLugonja/Expert46/2281
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Deejay TV" tvg-logo="" group-title="Live: ITALIJA",IT: Deejay TV
+http://livego.club:8080/EzdaLugonja/Expert46/2282
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="IT: Boing" tvg-logo="" group-title="Live: ITALIJA",IT: Boing
+http://livego.club:8080/EzdaLugonja/Expert46/2283
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Alice" tvg-logo="[""]" group-title="Live: ITALIJA",IT: Alice
+http://livego.club:8080/EzdaLugonja/Expert46/2284
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="IT: Cartoon Network" tvg-logo="" group-title="Live: ITALIJA",IT: Cartoon Network
+http://livego.club:8080/EzdaLugonja/Expert46/1012
+#EXTINF:-1 tvg-ID="cacciapesca.it" tvg-name="IT: Caccia e Pesca" tvg-logo="" group-title="Live: ITALIJA",IT: Caccia e Pesca
+http://livego.club:8080/EzdaLugonja/Expert46/1008
+#EXTINF:-1 tvg-ID="primafila1.it" tvg-name="IT: Sky Primafila 1 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 1 HD
+http://livego.club:8080/EzdaLugonja/Expert46/430
+#EXTINF:-1 tvg-ID="primafila2.it" tvg-name="IT: Sky Primafila 2 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 2 HD
+http://livego.club:8080/EzdaLugonja/Expert46/429
+#EXTINF:-1 tvg-ID="primafila3.it" tvg-name="IT: Sky Primafila 3 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 3 HD
+http://livego.club:8080/EzdaLugonja/Expert46/428
+#EXTINF:-1 tvg-ID="primafila4.it" tvg-name="IT: Sky Primafila 4 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 4 HD
+http://livego.club:8080/EzdaLugonja/Expert46/427
+#EXTINF:-1 tvg-ID="primafila5.it" tvg-name="IT: Sky Primafila 5 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 5 HD
+http://livego.club:8080/EzdaLugonja/Expert46/426
+#EXTINF:-1 tvg-ID="primafila6.it" tvg-name="IT: Sky Primafila 6 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 6 HD
+http://livego.club:8080/EzdaLugonja/Expert46/425
+#EXTINF:-1 tvg-ID="primafila7.it" tvg-name="IT: Sky Primafila 7 HD" tvg-logo="" group-title="Live: ITALIJA",IT: Sky Primafila 7 HD
+http://livego.club:8080/EzdaLugonja/Expert46/424
